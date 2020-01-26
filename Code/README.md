@@ -1,4 +1,5 @@
-### Code for the experiments from the arxiv paper https://arxiv.org/abs/1909.05479.pdf 
+### Code for the experiments from the arxiv paper 
+paper link - https://arxiv.org/abs/1909.05479.pdf 
 
 #### 1-deep_autoencoder
 Code for Figure 9
