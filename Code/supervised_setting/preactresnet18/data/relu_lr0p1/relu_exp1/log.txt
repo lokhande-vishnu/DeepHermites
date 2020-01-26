@@ -1,0 +1,1204 @@
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Epoch 0 :[12672/50000], Acc: 25.24, Loss: 1.9836
+Epoch 0 :[25472/50000], Acc: 30.34, Loss: 1.8372
+Epoch 0 :[38272/50000], Acc: 34.61, Loss: 1.7296
+TEST ACCURACY Epoch 0 , TestLoss: 133.1069, TestAcc: 51.58, BEST_ACC:51.58
+
+Epoch: 1
+Epoch 1 :[12672/50000], Acc: 55.66, Loss: 1.2312
+Epoch 1 :[25472/50000], Acc: 57.45, Loss: 1.1832
+Epoch 1 :[38272/50000], Acc: 58.61, Loss: 1.1498
+TEST ACCURACY Epoch 1 , TestLoss: 112.6622, TestAcc: 61.40, BEST_ACC:61.40
+
+Epoch: 2
+Epoch 2 :[12672/50000], Acc: 66.69, Loss: 0.9271
+Epoch 2 :[25472/50000], Acc: 67.89, Loss: 0.9048
+Epoch 2 :[38272/50000], Acc: 68.60, Loss: 0.8856
+TEST ACCURACY Epoch 2 , TestLoss: 175.0163, TestAcc: 55.62, BEST_ACC:61.40
+
+Epoch: 3
+Epoch 3 :[12672/50000], Acc: 73.63, Loss: 0.7523
+Epoch 3 :[25472/50000], Acc: 74.10, Loss: 0.7432
+Epoch 3 :[38272/50000], Acc: 74.68, Loss: 0.7281
+TEST ACCURACY Epoch 3 , TestLoss: 73.0039, TestAcc: 75.35, BEST_ACC:75.35
+
+Epoch: 4
+Epoch 4 :[12672/50000], Acc: 77.34, Loss: 0.6502
+Epoch 4 :[25472/50000], Acc: 77.75, Loss: 0.6428
+Epoch 4 :[38272/50000], Acc: 77.86, Loss: 0.6407
+TEST ACCURACY Epoch 4 , TestLoss: 90.0852, TestAcc: 72.68, BEST_ACC:75.35
+
+Epoch: 5
+Epoch 5 :[12672/50000], Acc: 79.72, Loss: 0.5955
+Epoch 5 :[25472/50000], Acc: 79.59, Loss: 0.5994
+Epoch 5 :[38272/50000], Acc: 79.65, Loss: 0.5973
+TEST ACCURACY Epoch 5 , TestLoss: 57.6650, TestAcc: 80.47, BEST_ACC:80.47
+
+Epoch: 6
+Epoch 6 :[12672/50000], Acc: 81.48, Loss: 0.5385
+Epoch 6 :[25472/50000], Acc: 81.25, Loss: 0.5524
+Epoch 6 :[38272/50000], Acc: 81.27, Loss: 0.5498
+TEST ACCURACY Epoch 6 , TestLoss: 64.4793, TestAcc: 78.09, BEST_ACC:80.47
+
+Epoch: 7
+Epoch 7 :[12672/50000], Acc: 82.14, Loss: 0.5275
+Epoch 7 :[25472/50000], Acc: 82.07, Loss: 0.5305
+Epoch 7 :[38272/50000], Acc: 82.12, Loss: 0.5256
+TEST ACCURACY Epoch 7 , TestLoss: 66.7916, TestAcc: 77.63, BEST_ACC:80.47
+
+Epoch: 8
+Epoch 8 :[12672/50000], Acc: 82.55, Loss: 0.5135
+Epoch 8 :[25472/50000], Acc: 82.68, Loss: 0.5094
+Epoch 8 :[38272/50000], Acc: 82.58, Loss: 0.5095
+TEST ACCURACY Epoch 8 , TestLoss: 74.5186, TestAcc: 75.52, BEST_ACC:80.47
+
+Epoch: 9
+Epoch 9 :[12672/50000], Acc: 83.43, Loss: 0.4805
+Epoch 9 :[25472/50000], Acc: 83.30, Loss: 0.4860
+Epoch 9 :[38272/50000], Acc: 83.46, Loss: 0.4854
+TEST ACCURACY Epoch 9 , TestLoss: 76.0106, TestAcc: 75.61, BEST_ACC:80.47
+
+Epoch: 10
+Epoch 10 :[12672/50000], Acc: 84.24, Loss: 0.4653
+Epoch 10 :[25472/50000], Acc: 84.20, Loss: 0.4660
+Epoch 10 :[38272/50000], Acc: 84.14, Loss: 0.4660
+TEST ACCURACY Epoch 10 , TestLoss: 73.3003, TestAcc: 75.31, BEST_ACC:80.47
+
+Epoch: 11
+Epoch 11 :[12672/50000], Acc: 84.05, Loss: 0.4651
+Epoch 11 :[25472/50000], Acc: 84.26, Loss: 0.4602
+Epoch 11 :[38272/50000], Acc: 84.44, Loss: 0.4567
+TEST ACCURACY Epoch 11 , TestLoss: 64.4790, TestAcc: 78.87, BEST_ACC:80.47
+
+Epoch: 12
+Epoch 12 :[12672/50000], Acc: 84.48, Loss: 0.4510
+Epoch 12 :[25472/50000], Acc: 84.79, Loss: 0.4458
+Epoch 12 :[38272/50000], Acc: 84.83, Loss: 0.4457
+TEST ACCURACY Epoch 12 , TestLoss: 69.7841, TestAcc: 78.03, BEST_ACC:80.47
+
+Epoch: 13
+Epoch 13 :[12672/50000], Acc: 86.22, Loss: 0.4027
+Epoch 13 :[25472/50000], Acc: 85.31, Loss: 0.4258
+Epoch 13 :[38272/50000], Acc: 85.16, Loss: 0.4298
+TEST ACCURACY Epoch 13 , TestLoss: 53.1154, TestAcc: 82.66, BEST_ACC:82.66
+
+Epoch: 14
+Epoch 14 :[12672/50000], Acc: 85.52, Loss: 0.4208
+Epoch 14 :[25472/50000], Acc: 85.43, Loss: 0.4223
+Epoch 14 :[38272/50000], Acc: 85.40, Loss: 0.4264
+TEST ACCURACY Epoch 14 , TestLoss: 59.1313, TestAcc: 80.43, BEST_ACC:82.66
+
+Epoch: 15
+Epoch 15 :[12672/50000], Acc: 86.29, Loss: 0.4030
+Epoch 15 :[25472/50000], Acc: 85.90, Loss: 0.4133
+Epoch 15 :[38272/50000], Acc: 85.88, Loss: 0.4150
+TEST ACCURACY Epoch 15 , TestLoss: 59.6322, TestAcc: 80.06, BEST_ACC:82.66
+
+Epoch: 16
+Epoch 16 :[12672/50000], Acc: 86.12, Loss: 0.4064
+Epoch 16 :[25472/50000], Acc: 86.27, Loss: 0.4016
+Epoch 16 :[38272/50000], Acc: 86.24, Loss: 0.4037
+TEST ACCURACY Epoch 16 , TestLoss: 51.8629, TestAcc: 82.73, BEST_ACC:82.73
+
+Epoch: 17
+Epoch 17 :[12672/50000], Acc: 86.77, Loss: 0.3923
+Epoch 17 :[25472/50000], Acc: 86.42, Loss: 0.4016
+Epoch 17 :[38272/50000], Acc: 86.31, Loss: 0.4029
+TEST ACCURACY Epoch 17 , TestLoss: 74.9662, TestAcc: 76.27, BEST_ACC:82.73
+
+Epoch: 18
+Epoch 18 :[12672/50000], Acc: 86.66, Loss: 0.3831
+Epoch 18 :[25472/50000], Acc: 86.45, Loss: 0.3927
+Epoch 18 :[38272/50000], Acc: 86.45, Loss: 0.3941
+TEST ACCURACY Epoch 18 , TestLoss: 55.7834, TestAcc: 81.99, BEST_ACC:82.73
+
+Epoch: 19
+Epoch 19 :[12672/50000], Acc: 87.51, Loss: 0.3676
+Epoch 19 :[25472/50000], Acc: 86.98, Loss: 0.3815
+Epoch 19 :[38272/50000], Acc: 86.70, Loss: 0.3891
+TEST ACCURACY Epoch 19 , TestLoss: 51.9467, TestAcc: 83.08, BEST_ACC:83.08
+
+Epoch: 20
+Epoch 20 :[12672/50000], Acc: 86.78, Loss: 0.3836
+Epoch 20 :[25472/50000], Acc: 86.95, Loss: 0.3770
+Epoch 20 :[38272/50000], Acc: 86.97, Loss: 0.3781
+TEST ACCURACY Epoch 20 , TestLoss: 48.7438, TestAcc: 83.90, BEST_ACC:83.90
+
+Epoch: 21
+Epoch 21 :[12672/50000], Acc: 87.48, Loss: 0.3713
+Epoch 21 :[25472/50000], Acc: 87.08, Loss: 0.3793
+Epoch 21 :[38272/50000], Acc: 87.07, Loss: 0.3808
+TEST ACCURACY Epoch 21 , TestLoss: 62.2036, TestAcc: 80.78, BEST_ACC:83.90
+
+Epoch: 22
+Epoch 22 :[12672/50000], Acc: 87.08, Loss: 0.3752
+Epoch 22 :[25472/50000], Acc: 87.09, Loss: 0.3775
+Epoch 22 :[38272/50000], Acc: 87.07, Loss: 0.3807
+TEST ACCURACY Epoch 22 , TestLoss: 55.1637, TestAcc: 82.05, BEST_ACC:83.90
+
+Epoch: 23
+Epoch 23 :[12672/50000], Acc: 87.45, Loss: 0.3643
+Epoch 23 :[25472/50000], Acc: 87.20, Loss: 0.3737
+Epoch 23 :[38272/50000], Acc: 87.28, Loss: 0.3721
+TEST ACCURACY Epoch 23 , TestLoss: 48.7581, TestAcc: 83.93, BEST_ACC:83.93
+
+Epoch: 24
+Epoch 24 :[12672/50000], Acc: 87.80, Loss: 0.3608
+Epoch 24 :[25472/50000], Acc: 87.35, Loss: 0.3692
+Epoch 24 :[38272/50000], Acc: 87.11, Loss: 0.3766
+TEST ACCURACY Epoch 24 , TestLoss: 55.5623, TestAcc: 81.98, BEST_ACC:83.93
+
+Epoch: 25
+Epoch 25 :[12672/50000], Acc: 87.87, Loss: 0.3531
+Epoch 25 :[25472/50000], Acc: 87.72, Loss: 0.3598
+Epoch 25 :[38272/50000], Acc: 87.66, Loss: 0.3617
+TEST ACCURACY Epoch 25 , TestLoss: 74.8498, TestAcc: 78.38, BEST_ACC:83.93
+
+Epoch: 26
+Epoch 26 :[12672/50000], Acc: 88.02, Loss: 0.3601
+Epoch 26 :[25472/50000], Acc: 87.86, Loss: 0.3622
+Epoch 26 :[38272/50000], Acc: 87.80, Loss: 0.3604
+TEST ACCURACY Epoch 26 , TestLoss: 51.8494, TestAcc: 83.16, BEST_ACC:83.93
+
+Epoch: 27
+Epoch 27 :[12672/50000], Acc: 87.50, Loss: 0.3597
+Epoch 27 :[25472/50000], Acc: 87.41, Loss: 0.3620
+Epoch 27 :[38272/50000], Acc: 87.49, Loss: 0.3596
+TEST ACCURACY Epoch 27 , TestLoss: 51.5514, TestAcc: 83.59, BEST_ACC:83.93
+
+Epoch: 28
+Epoch 28 :[12672/50000], Acc: 87.75, Loss: 0.3495
+Epoch 28 :[25472/50000], Acc: 87.48, Loss: 0.3671
+Epoch 28 :[38272/50000], Acc: 87.48, Loss: 0.3654
+TEST ACCURACY Epoch 28 , TestLoss: 44.5615, TestAcc: 84.88, BEST_ACC:84.88
+
+Epoch: 29
+Epoch 29 :[12672/50000], Acc: 88.13, Loss: 0.3541
+Epoch 29 :[25472/50000], Acc: 87.78, Loss: 0.3590
+Epoch 29 :[38272/50000], Acc: 87.69, Loss: 0.3586
+TEST ACCURACY Epoch 29 , TestLoss: 59.6853, TestAcc: 81.16, BEST_ACC:84.88
+
+Epoch: 30
+Epoch 30 :[12672/50000], Acc: 87.91, Loss: 0.3550
+Epoch 30 :[25472/50000], Acc: 87.63, Loss: 0.3581
+Epoch 30 :[38272/50000], Acc: 87.69, Loss: 0.3572
+TEST ACCURACY Epoch 30 , TestLoss: 69.7146, TestAcc: 79.70, BEST_ACC:84.88
+
+Epoch: 31
+Epoch 31 :[12672/50000], Acc: 87.50, Loss: 0.3600
+Epoch 31 :[25472/50000], Acc: 87.63, Loss: 0.3603
+Epoch 31 :[38272/50000], Acc: 87.93, Loss: 0.3540
+TEST ACCURACY Epoch 31 , TestLoss: 61.4368, TestAcc: 81.42, BEST_ACC:84.88
+
+Epoch: 32
+Epoch 32 :[12672/50000], Acc: 88.66, Loss: 0.3344
+Epoch 32 :[25472/50000], Acc: 88.29, Loss: 0.3459
+Epoch 32 :[38272/50000], Acc: 88.23, Loss: 0.3485
+TEST ACCURACY Epoch 32 , TestLoss: 68.6798, TestAcc: 80.41, BEST_ACC:84.88
+
+Epoch: 33
+Epoch 33 :[12672/50000], Acc: 87.87, Loss: 0.3496
+Epoch 33 :[25472/50000], Acc: 87.74, Loss: 0.3524
+Epoch 33 :[38272/50000], Acc: 87.67, Loss: 0.3560
+TEST ACCURACY Epoch 33 , TestLoss: 70.8722, TestAcc: 78.71, BEST_ACC:84.88
+
+Epoch: 34
+Epoch 34 :[12672/50000], Acc: 87.63, Loss: 0.3583
+Epoch 34 :[25472/50000], Acc: 88.00, Loss: 0.3509
+Epoch 34 :[38272/50000], Acc: 88.01, Loss: 0.3508
+TEST ACCURACY Epoch 34 , TestLoss: 45.8144, TestAcc: 84.48, BEST_ACC:84.88
+
+Epoch: 35
+Epoch 35 :[12672/50000], Acc: 88.23, Loss: 0.3394
+Epoch 35 :[25472/50000], Acc: 88.29, Loss: 0.3410
+Epoch 35 :[38272/50000], Acc: 88.20, Loss: 0.3465
+TEST ACCURACY Epoch 35 , TestLoss: 85.2550, TestAcc: 77.21, BEST_ACC:84.88
+
+Epoch: 36
+Epoch 36 :[12672/50000], Acc: 88.27, Loss: 0.3384
+Epoch 36 :[25472/50000], Acc: 88.02, Loss: 0.3458
+Epoch 36 :[38272/50000], Acc: 88.05, Loss: 0.3477
+TEST ACCURACY Epoch 36 , TestLoss: 67.6159, TestAcc: 79.72, BEST_ACC:84.88
+
+Epoch: 37
+Epoch 37 :[12672/50000], Acc: 88.06, Loss: 0.3433
+Epoch 37 :[25472/50000], Acc: 88.06, Loss: 0.3472
+Epoch 37 :[38272/50000], Acc: 88.22, Loss: 0.3438
+TEST ACCURACY Epoch 37 , TestLoss: 53.9416, TestAcc: 82.92, BEST_ACC:84.88
+
+Epoch: 38
+Epoch 38 :[12672/50000], Acc: 88.65, Loss: 0.3460
+Epoch 38 :[25472/50000], Acc: 88.67, Loss: 0.3432
+Epoch 38 :[38272/50000], Acc: 88.38, Loss: 0.3457
+TEST ACCURACY Epoch 38 , TestLoss: 66.0987, TestAcc: 79.33, BEST_ACC:84.88
+
+Epoch: 39
+Epoch 39 :[12672/50000], Acc: 87.87, Loss: 0.3480
+Epoch 39 :[25472/50000], Acc: 88.35, Loss: 0.3412
+Epoch 39 :[38272/50000], Acc: 88.26, Loss: 0.3426
+TEST ACCURACY Epoch 39 , TestLoss: 59.4062, TestAcc: 80.86, BEST_ACC:84.88
+
+Epoch: 40
+Epoch 40 :[12672/50000], Acc: 88.35, Loss: 0.3324
+Epoch 40 :[25472/50000], Acc: 88.38, Loss: 0.3374
+Epoch 40 :[38272/50000], Acc: 88.49, Loss: 0.3378
+TEST ACCURACY Epoch 40 , TestLoss: 68.3233, TestAcc: 80.16, BEST_ACC:84.88
+
+Epoch: 41
+Epoch 41 :[12672/50000], Acc: 89.07, Loss: 0.3234
+Epoch 41 :[25472/50000], Acc: 88.48, Loss: 0.3346
+Epoch 41 :[38272/50000], Acc: 88.40, Loss: 0.3379
+TEST ACCURACY Epoch 41 , TestLoss: 51.9834, TestAcc: 82.63, BEST_ACC:84.88
+
+Epoch: 42
+Epoch 42 :[12672/50000], Acc: 88.91, Loss: 0.3215
+Epoch 42 :[25472/50000], Acc: 88.29, Loss: 0.3384
+Epoch 42 :[38272/50000], Acc: 88.16, Loss: 0.3432
+TEST ACCURACY Epoch 42 , TestLoss: 68.1206, TestAcc: 79.79, BEST_ACC:84.88
+
+Epoch: 43
+Epoch 43 :[12672/50000], Acc: 88.67, Loss: 0.3273
+Epoch 43 :[25472/50000], Acc: 88.84, Loss: 0.3256
+Epoch 43 :[38272/50000], Acc: 88.61, Loss: 0.3369
+TEST ACCURACY Epoch 43 , TestLoss: 51.0027, TestAcc: 84.02, BEST_ACC:84.88
+
+Epoch: 44
+Epoch 44 :[12672/50000], Acc: 88.43, Loss: 0.3412
+Epoch 44 :[25472/50000], Acc: 88.50, Loss: 0.3351
+Epoch 44 :[38272/50000], Acc: 88.38, Loss: 0.3389
+TEST ACCURACY Epoch 44 , TestLoss: 62.6768, TestAcc: 81.44, BEST_ACC:84.88
+
+Epoch: 45
+Epoch 45 :[12672/50000], Acc: 88.88, Loss: 0.3210
+Epoch 45 :[25472/50000], Acc: 88.43, Loss: 0.3355
+Epoch 45 :[38272/50000], Acc: 88.29, Loss: 0.3419
+TEST ACCURACY Epoch 45 , TestLoss: 63.3573, TestAcc: 80.87, BEST_ACC:84.88
+
+Epoch: 46
+Epoch 46 :[12672/50000], Acc: 88.98, Loss: 0.3207
+Epoch 46 :[25472/50000], Acc: 88.82, Loss: 0.3266
+Epoch 46 :[38272/50000], Acc: 88.88, Loss: 0.3270
+TEST ACCURACY Epoch 46 , TestLoss: 67.3216, TestAcc: 80.85, BEST_ACC:84.88
+
+Epoch: 47
+Epoch 47 :[12672/50000], Acc: 89.11, Loss: 0.3225
+Epoch 47 :[25472/50000], Acc: 88.95, Loss: 0.3271
+Epoch 47 :[38272/50000], Acc: 88.56, Loss: 0.3348
+TEST ACCURACY Epoch 47 , TestLoss: 61.8023, TestAcc: 80.73, BEST_ACC:84.88
+
+Epoch: 48
+Epoch 48 :[12672/50000], Acc: 89.04, Loss: 0.3169
+Epoch 48 :[25472/50000], Acc: 88.79, Loss: 0.3299
+Epoch 48 :[38272/50000], Acc: 88.46, Loss: 0.3389
+TEST ACCURACY Epoch 48 , TestLoss: 42.0274, TestAcc: 86.45, BEST_ACC:86.45
+
+Epoch: 49
+Epoch 49 :[12672/50000], Acc: 88.88, Loss: 0.3214
+Epoch 49 :[25472/50000], Acc: 88.65, Loss: 0.3312
+Epoch 49 :[38272/50000], Acc: 88.35, Loss: 0.3380
+TEST ACCURACY Epoch 49 , TestLoss: 57.3849, TestAcc: 81.96, BEST_ACC:86.45
+
+Epoch: 50
+Epoch 50 :[12672/50000], Acc: 89.47, Loss: 0.3035
+Epoch 50 :[25472/50000], Acc: 89.54, Loss: 0.3075
+Epoch 50 :[38272/50000], Acc: 89.05, Loss: 0.3211
+TEST ACCURACY Epoch 50 , TestLoss: 51.8994, TestAcc: 83.20, BEST_ACC:86.45
+
+Epoch: 51
+Epoch 51 :[12672/50000], Acc: 89.46, Loss: 0.3062
+Epoch 51 :[25472/50000], Acc: 89.29, Loss: 0.3130
+Epoch 51 :[38272/50000], Acc: 88.89, Loss: 0.3267
+TEST ACCURACY Epoch 51 , TestLoss: 66.9345, TestAcc: 79.33, BEST_ACC:86.45
+
+Epoch: 52
+Epoch 52 :[12672/50000], Acc: 89.16, Loss: 0.3217
+Epoch 52 :[25472/50000], Acc: 89.08, Loss: 0.3201
+Epoch 52 :[38272/50000], Acc: 88.81, Loss: 0.3294
+TEST ACCURACY Epoch 52 , TestLoss: 50.5121, TestAcc: 84.59, BEST_ACC:86.45
+
+Epoch: 53
+Epoch 53 :[12672/50000], Acc: 88.87, Loss: 0.3196
+Epoch 53 :[25472/50000], Acc: 88.73, Loss: 0.3288
+Epoch 53 :[38272/50000], Acc: 88.63, Loss: 0.3319
+TEST ACCURACY Epoch 53 , TestLoss: 43.9860, TestAcc: 85.31, BEST_ACC:86.45
+
+Epoch: 54
+Epoch 54 :[12672/50000], Acc: 89.05, Loss: 0.3097
+Epoch 54 :[25472/50000], Acc: 88.62, Loss: 0.3273
+Epoch 54 :[38272/50000], Acc: 88.67, Loss: 0.3300
+TEST ACCURACY Epoch 54 , TestLoss: 75.6647, TestAcc: 79.37, BEST_ACC:86.45
+
+Epoch: 55
+Epoch 55 :[12672/50000], Acc: 89.00, Loss: 0.3252
+Epoch 55 :[25472/50000], Acc: 89.00, Loss: 0.3229
+Epoch 55 :[38272/50000], Acc: 88.73, Loss: 0.3289
+TEST ACCURACY Epoch 55 , TestLoss: 45.7464, TestAcc: 84.63, BEST_ACC:86.45
+
+Epoch: 56
+Epoch 56 :[12672/50000], Acc: 89.83, Loss: 0.3040
+Epoch 56 :[25472/50000], Acc: 89.42, Loss: 0.3187
+Epoch 56 :[38272/50000], Acc: 89.04, Loss: 0.3268
+TEST ACCURACY Epoch 56 , TestLoss: 43.3475, TestAcc: 85.54, BEST_ACC:86.45
+
+Epoch: 57
+Epoch 57 :[12672/50000], Acc: 89.16, Loss: 0.3196
+Epoch 57 :[25472/50000], Acc: 88.66, Loss: 0.3303
+Epoch 57 :[38272/50000], Acc: 88.90, Loss: 0.3236
+TEST ACCURACY Epoch 57 , TestLoss: 61.1547, TestAcc: 81.20, BEST_ACC:86.45
+
+Epoch: 58
+Epoch 58 :[12672/50000], Acc: 89.20, Loss: 0.3189
+Epoch 58 :[25472/50000], Acc: 89.18, Loss: 0.3164
+Epoch 58 :[38272/50000], Acc: 89.07, Loss: 0.3220
+TEST ACCURACY Epoch 58 , TestLoss: 84.8549, TestAcc: 75.29, BEST_ACC:86.45
+
+Epoch: 59
+Epoch 59 :[12672/50000], Acc: 88.76, Loss: 0.3277
+Epoch 59 :[25472/50000], Acc: 88.78, Loss: 0.3295
+Epoch 59 :[38272/50000], Acc: 88.66, Loss: 0.3330
+TEST ACCURACY Epoch 59 , TestLoss: 48.2755, TestAcc: 83.64, BEST_ACC:86.45
+
+Epoch: 60
+Epoch 60 :[12672/50000], Acc: 89.33, Loss: 0.3120
+Epoch 60 :[25472/50000], Acc: 88.83, Loss: 0.3241
+Epoch 60 :[38272/50000], Acc: 88.72, Loss: 0.3263
+TEST ACCURACY Epoch 60 , TestLoss: 45.0760, TestAcc: 85.15, BEST_ACC:86.45
+
+Epoch: 61
+Epoch 61 :[12672/50000], Acc: 88.95, Loss: 0.3260
+Epoch 61 :[25472/50000], Acc: 89.24, Loss: 0.3182
+Epoch 61 :[38272/50000], Acc: 89.00, Loss: 0.3230
+TEST ACCURACY Epoch 61 , TestLoss: 54.9989, TestAcc: 82.65, BEST_ACC:86.45
+
+Epoch: 62
+Epoch 62 :[12672/50000], Acc: 89.55, Loss: 0.3141
+Epoch 62 :[25472/50000], Acc: 89.34, Loss: 0.3191
+Epoch 62 :[38272/50000], Acc: 89.24, Loss: 0.3198
+TEST ACCURACY Epoch 62 , TestLoss: 65.3429, TestAcc: 80.42, BEST_ACC:86.45
+
+Epoch: 63
+Epoch 63 :[12672/50000], Acc: 89.21, Loss: 0.3165
+Epoch 63 :[25472/50000], Acc: 89.20, Loss: 0.3152
+Epoch 63 :[38272/50000], Acc: 88.99, Loss: 0.3237
+TEST ACCURACY Epoch 63 , TestLoss: 61.5023, TestAcc: 80.17, BEST_ACC:86.45
+
+Epoch: 64
+Epoch 64 :[12672/50000], Acc: 88.70, Loss: 0.3260
+Epoch 64 :[25472/50000], Acc: 88.89, Loss: 0.3263
+Epoch 64 :[38272/50000], Acc: 88.80, Loss: 0.3259
+TEST ACCURACY Epoch 64 , TestLoss: 77.5032, TestAcc: 79.78, BEST_ACC:86.45
+
+Epoch: 65
+Epoch 65 :[12672/50000], Acc: 89.20, Loss: 0.3116
+Epoch 65 :[25472/50000], Acc: 89.29, Loss: 0.3127
+Epoch 65 :[38272/50000], Acc: 89.08, Loss: 0.3196
+TEST ACCURACY Epoch 65 , TestLoss: 80.7453, TestAcc: 77.15, BEST_ACC:86.45
+
+Epoch: 66
+Epoch 66 :[12672/50000], Acc: 89.48, Loss: 0.3146
+Epoch 66 :[25472/50000], Acc: 89.06, Loss: 0.3283
+Epoch 66 :[38272/50000], Acc: 88.81, Loss: 0.3360
+TEST ACCURACY Epoch 66 , TestLoss: 55.2125, TestAcc: 83.00, BEST_ACC:86.45
+
+Epoch: 67
+Epoch 67 :[12672/50000], Acc: 89.25, Loss: 0.3047
+Epoch 67 :[25472/50000], Acc: 89.29, Loss: 0.3087
+Epoch 67 :[38272/50000], Acc: 89.00, Loss: 0.3171
+TEST ACCURACY Epoch 67 , TestLoss: 73.0671, TestAcc: 79.09, BEST_ACC:86.45
+
+Epoch: 68
+Epoch 68 :[12672/50000], Acc: 90.11, Loss: 0.2965
+Epoch 68 :[25472/50000], Acc: 89.39, Loss: 0.3136
+Epoch 68 :[38272/50000], Acc: 89.19, Loss: 0.3187
+TEST ACCURACY Epoch 68 , TestLoss: 60.9801, TestAcc: 81.31, BEST_ACC:86.45
+
+Epoch: 69
+Epoch 69 :[12672/50000], Acc: 90.07, Loss: 0.2927
+Epoch 69 :[25472/50000], Acc: 89.30, Loss: 0.3134
+Epoch 69 :[38272/50000], Acc: 89.22, Loss: 0.3161
+TEST ACCURACY Epoch 69 , TestLoss: 54.2013, TestAcc: 82.75, BEST_ACC:86.45
+
+Epoch: 70
+Epoch 70 :[12672/50000], Acc: 88.68, Loss: 0.3218
+Epoch 70 :[25472/50000], Acc: 88.68, Loss: 0.3261
+Epoch 70 :[38272/50000], Acc: 88.62, Loss: 0.3274
+TEST ACCURACY Epoch 70 , TestLoss: 54.2959, TestAcc: 83.77, BEST_ACC:86.45
+
+Epoch: 71
+Epoch 71 :[12672/50000], Acc: 89.09, Loss: 0.3193
+Epoch 71 :[25472/50000], Acc: 89.21, Loss: 0.3182
+Epoch 71 :[38272/50000], Acc: 89.21, Loss: 0.3183
+TEST ACCURACY Epoch 71 , TestLoss: 51.2063, TestAcc: 83.95, BEST_ACC:86.45
+
+Epoch: 72
+Epoch 72 :[12672/50000], Acc: 89.38, Loss: 0.3077
+Epoch 72 :[25472/50000], Acc: 89.38, Loss: 0.3115
+Epoch 72 :[38272/50000], Acc: 89.19, Loss: 0.3154
+TEST ACCURACY Epoch 72 , TestLoss: 43.2418, TestAcc: 85.47, BEST_ACC:86.45
+
+Epoch: 73
+Epoch 73 :[12672/50000], Acc: 89.09, Loss: 0.3192
+Epoch 73 :[25472/50000], Acc: 89.21, Loss: 0.3225
+Epoch 73 :[38272/50000], Acc: 89.12, Loss: 0.3211
+TEST ACCURACY Epoch 73 , TestLoss: 49.5416, TestAcc: 84.25, BEST_ACC:86.45
+
+Epoch: 74
+Epoch 74 :[12672/50000], Acc: 89.70, Loss: 0.3109
+Epoch 74 :[25472/50000], Acc: 89.55, Loss: 0.3109
+Epoch 74 :[38272/50000], Acc: 89.29, Loss: 0.3194
+TEST ACCURACY Epoch 74 , TestLoss: 43.2424, TestAcc: 85.22, BEST_ACC:86.45
+
+Epoch: 75
+Epoch 75 :[12672/50000], Acc: 89.50, Loss: 0.3067
+Epoch 75 :[25472/50000], Acc: 89.04, Loss: 0.3195
+Epoch 75 :[38272/50000], Acc: 88.84, Loss: 0.3268
+TEST ACCURACY Epoch 75 , TestLoss: 52.0498, TestAcc: 84.67, BEST_ACC:86.45
+
+Epoch: 76
+Epoch 76 :[12672/50000], Acc: 89.07, Loss: 0.3130
+Epoch 76 :[25472/50000], Acc: 88.79, Loss: 0.3209
+Epoch 76 :[38272/50000], Acc: 88.74, Loss: 0.3247
+TEST ACCURACY Epoch 76 , TestLoss: 55.1643, TestAcc: 84.23, BEST_ACC:86.45
+
+Epoch: 77
+Epoch 77 :[12672/50000], Acc: 89.23, Loss: 0.3158
+Epoch 77 :[25472/50000], Acc: 88.96, Loss: 0.3220
+Epoch 77 :[38272/50000], Acc: 89.01, Loss: 0.3212
+TEST ACCURACY Epoch 77 , TestLoss: 40.7102, TestAcc: 86.97, BEST_ACC:86.97
+
+Epoch: 78
+Epoch 78 :[12672/50000], Acc: 89.77, Loss: 0.2989
+Epoch 78 :[25472/50000], Acc: 89.38, Loss: 0.3101
+Epoch 78 :[38272/50000], Acc: 89.22, Loss: 0.3136
+TEST ACCURACY Epoch 78 , TestLoss: 47.1049, TestAcc: 85.35, BEST_ACC:86.97
+
+Epoch: 79
+Epoch 79 :[12672/50000], Acc: 89.13, Loss: 0.3158
+Epoch 79 :[25472/50000], Acc: 89.31, Loss: 0.3159
+Epoch 79 :[38272/50000], Acc: 89.15, Loss: 0.3203
+TEST ACCURACY Epoch 79 , TestLoss: 73.0724, TestAcc: 81.02, BEST_ACC:86.97
+
+Epoch: 80
+Epoch 80 :[12672/50000], Acc: 89.47, Loss: 0.3079
+Epoch 80 :[25472/50000], Acc: 88.89, Loss: 0.3207
+Epoch 80 :[38272/50000], Acc: 88.73, Loss: 0.3269
+TEST ACCURACY Epoch 80 , TestLoss: 45.9261, TestAcc: 85.44, BEST_ACC:86.97
+
+Epoch: 81
+Epoch 81 :[12672/50000], Acc: 93.13, Loss: 0.2064
+Epoch 81 :[25472/50000], Acc: 93.73, Loss: 0.1861
+Epoch 81 :[38272/50000], Acc: 94.09, Loss: 0.1760
+TEST ACCURACY Epoch 81 , TestLoss: 22.3235, TestAcc: 92.70, BEST_ACC:92.70
+
+Epoch: 82
+Epoch 82 :[12672/50000], Acc: 95.66, Loss: 0.1312
+Epoch 82 :[25472/50000], Acc: 95.68, Loss: 0.1302
+Epoch 82 :[38272/50000], Acc: 95.78, Loss: 0.1269
+TEST ACCURACY Epoch 82 , TestLoss: 20.9745, TestAcc: 93.24, BEST_ACC:93.24
+
+Epoch: 83
+Epoch 83 :[12672/50000], Acc: 96.66, Loss: 0.1025
+Epoch 83 :[25472/50000], Acc: 96.48, Loss: 0.1050
+Epoch 83 :[38272/50000], Acc: 96.47, Loss: 0.1044
+TEST ACCURACY Epoch 83 , TestLoss: 21.2483, TestAcc: 93.44, BEST_ACC:93.44
+
+Epoch: 84
+Epoch 84 :[12672/50000], Acc: 96.98, Loss: 0.0922
+Epoch 84 :[25472/50000], Acc: 97.00, Loss: 0.0906
+Epoch 84 :[38272/50000], Acc: 96.93, Loss: 0.0928
+TEST ACCURACY Epoch 84 , TestLoss: 21.2014, TestAcc: 93.30, BEST_ACC:93.44
+
+Epoch: 85
+Epoch 85 :[12672/50000], Acc: 97.12, Loss: 0.0814
+Epoch 85 :[25472/50000], Acc: 97.08, Loss: 0.0830
+Epoch 85 :[38272/50000], Acc: 97.14, Loss: 0.0831
+TEST ACCURACY Epoch 85 , TestLoss: 21.5716, TestAcc: 93.56, BEST_ACC:93.56
+
+Epoch: 86
+Epoch 86 :[12672/50000], Acc: 97.48, Loss: 0.0731
+Epoch 86 :[25472/50000], Acc: 97.42, Loss: 0.0752
+Epoch 86 :[38272/50000], Acc: 97.43, Loss: 0.0750
+TEST ACCURACY Epoch 86 , TestLoss: 21.4448, TestAcc: 93.70, BEST_ACC:93.70
+
+Epoch: 87
+Epoch 87 :[12672/50000], Acc: 97.82, Loss: 0.0649
+Epoch 87 :[25472/50000], Acc: 97.77, Loss: 0.0651
+Epoch 87 :[38272/50000], Acc: 97.80, Loss: 0.0651
+TEST ACCURACY Epoch 87 , TestLoss: 21.2159, TestAcc: 93.62, BEST_ACC:93.70
+
+Epoch: 88
+Epoch 88 :[12672/50000], Acc: 97.95, Loss: 0.0580
+Epoch 88 :[25472/50000], Acc: 97.84, Loss: 0.0625
+Epoch 88 :[38272/50000], Acc: 97.82, Loss: 0.0621
+TEST ACCURACY Epoch 88 , TestLoss: 21.2570, TestAcc: 93.71, BEST_ACC:93.71
+
+Epoch: 89
+Epoch 89 :[12672/50000], Acc: 98.07, Loss: 0.0523
+Epoch 89 :[25472/50000], Acc: 98.05, Loss: 0.0547
+Epoch 89 :[38272/50000], Acc: 98.11, Loss: 0.0538
+TEST ACCURACY Epoch 89 , TestLoss: 23.1415, TestAcc: 93.40, BEST_ACC:93.71
+
+Epoch: 90
+Epoch 90 :[12672/50000], Acc: 98.35, Loss: 0.0478
+Epoch 90 :[25472/50000], Acc: 98.31, Loss: 0.0497
+Epoch 90 :[38272/50000], Acc: 98.23, Loss: 0.0515
+TEST ACCURACY Epoch 90 , TestLoss: 23.0093, TestAcc: 93.58, BEST_ACC:93.71
+
+Epoch: 91
+Epoch 91 :[12672/50000], Acc: 98.62, Loss: 0.0424
+Epoch 91 :[25472/50000], Acc: 98.43, Loss: 0.0448
+Epoch 91 :[38272/50000], Acc: 98.41, Loss: 0.0462
+TEST ACCURACY Epoch 91 , TestLoss: 22.6653, TestAcc: 93.66, BEST_ACC:93.71
+
+Epoch: 92
+Epoch 92 :[12672/50000], Acc: 98.66, Loss: 0.0429
+Epoch 92 :[25472/50000], Acc: 98.66, Loss: 0.0420
+Epoch 92 :[38272/50000], Acc: 98.53, Loss: 0.0436
+TEST ACCURACY Epoch 92 , TestLoss: 23.3664, TestAcc: 93.48, BEST_ACC:93.71
+
+Epoch: 93
+Epoch 93 :[12672/50000], Acc: 98.77, Loss: 0.0361
+Epoch 93 :[25472/50000], Acc: 98.63, Loss: 0.0399
+Epoch 93 :[38272/50000], Acc: 98.54, Loss: 0.0427
+TEST ACCURACY Epoch 93 , TestLoss: 24.1672, TestAcc: 93.38, BEST_ACC:93.71
+
+Epoch: 94
+Epoch 94 :[12672/50000], Acc: 98.91, Loss: 0.0358
+Epoch 94 :[25472/50000], Acc: 98.93, Loss: 0.0352
+Epoch 94 :[38272/50000], Acc: 98.80, Loss: 0.0380
+TEST ACCURACY Epoch 94 , TestLoss: 24.9324, TestAcc: 93.33, BEST_ACC:93.71
+
+Epoch: 95
+Epoch 95 :[12672/50000], Acc: 98.82, Loss: 0.0366
+Epoch 95 :[25472/50000], Acc: 98.91, Loss: 0.0351
+Epoch 95 :[38272/50000], Acc: 98.85, Loss: 0.0368
+TEST ACCURACY Epoch 95 , TestLoss: 24.0551, TestAcc: 93.61, BEST_ACC:93.71
+
+Epoch: 96
+Epoch 96 :[12672/50000], Acc: 98.77, Loss: 0.0361
+Epoch 96 :[25472/50000], Acc: 98.83, Loss: 0.0351
+Epoch 96 :[38272/50000], Acc: 98.77, Loss: 0.0366
+TEST ACCURACY Epoch 96 , TestLoss: 24.1960, TestAcc: 93.64, BEST_ACC:93.71
+
+Epoch: 97
+Epoch 97 :[12672/50000], Acc: 99.04, Loss: 0.0313
+Epoch 97 :[25472/50000], Acc: 99.02, Loss: 0.0314
+Epoch 97 :[38272/50000], Acc: 98.90, Loss: 0.0344
+TEST ACCURACY Epoch 97 , TestLoss: 27.0941, TestAcc: 93.10, BEST_ACC:93.71
+
+Epoch: 98
+Epoch 98 :[12672/50000], Acc: 98.93, Loss: 0.0320
+Epoch 98 :[25472/50000], Acc: 98.93, Loss: 0.0316
+Epoch 98 :[38272/50000], Acc: 98.91, Loss: 0.0326
+TEST ACCURACY Epoch 98 , TestLoss: 26.3749, TestAcc: 93.32, BEST_ACC:93.71
+
+Epoch: 99
+Epoch 99 :[12672/50000], Acc: 98.95, Loss: 0.0311
+Epoch 99 :[25472/50000], Acc: 98.91, Loss: 0.0329
+Epoch 99 :[38272/50000], Acc: 98.79, Loss: 0.0362
+TEST ACCURACY Epoch 99 , TestLoss: 23.8834, TestAcc: 93.52, BEST_ACC:93.71
+
+Epoch: 100
+Epoch 100 :[12672/50000], Acc: 98.97, Loss: 0.0315
+Epoch 100 :[25472/50000], Acc: 98.94, Loss: 0.0324
+Epoch 100 :[38272/50000], Acc: 98.94, Loss: 0.0325
+TEST ACCURACY Epoch 100 , TestLoss: 26.0511, TestAcc: 93.13, BEST_ACC:93.71
+
+Epoch: 101
+Epoch 101 :[12672/50000], Acc: 99.19, Loss: 0.0278
+Epoch 101 :[25472/50000], Acc: 99.07, Loss: 0.0305
+Epoch 101 :[38272/50000], Acc: 98.96, Loss: 0.0328
+TEST ACCURACY Epoch 101 , TestLoss: 27.6372, TestAcc: 92.66, BEST_ACC:93.71
+
+Epoch: 102
+Epoch 102 :[12672/50000], Acc: 99.07, Loss: 0.0302
+Epoch 102 :[25472/50000], Acc: 98.97, Loss: 0.0317
+Epoch 102 :[38272/50000], Acc: 98.94, Loss: 0.0324
+TEST ACCURACY Epoch 102 , TestLoss: 25.3205, TestAcc: 93.10, BEST_ACC:93.71
+
+Epoch: 103
+Epoch 103 :[12672/50000], Acc: 99.02, Loss: 0.0303
+Epoch 103 :[25472/50000], Acc: 98.88, Loss: 0.0341
+Epoch 103 :[38272/50000], Acc: 98.85, Loss: 0.0345
+TEST ACCURACY Epoch 103 , TestLoss: 26.7551, TestAcc: 93.45, BEST_ACC:93.71
+
+Epoch: 104
+Epoch 104 :[12672/50000], Acc: 98.56, Loss: 0.0402
+Epoch 104 :[25472/50000], Acc: 98.78, Loss: 0.0369
+Epoch 104 :[38272/50000], Acc: 98.77, Loss: 0.0365
+TEST ACCURACY Epoch 104 , TestLoss: 26.3405, TestAcc: 93.36, BEST_ACC:93.71
+
+Epoch: 105
+Epoch 105 :[12672/50000], Acc: 98.88, Loss: 0.0332
+Epoch 105 :[25472/50000], Acc: 98.89, Loss: 0.0331
+Epoch 105 :[38272/50000], Acc: 98.82, Loss: 0.0354
+TEST ACCURACY Epoch 105 , TestLoss: 28.2196, TestAcc: 92.86, BEST_ACC:93.71
+
+Epoch: 106
+Epoch 106 :[12672/50000], Acc: 98.88, Loss: 0.0347
+Epoch 106 :[25472/50000], Acc: 98.82, Loss: 0.0348
+Epoch 106 :[38272/50000], Acc: 98.74, Loss: 0.0378
+TEST ACCURACY Epoch 106 , TestLoss: 27.6325, TestAcc: 92.65, BEST_ACC:93.71
+
+Epoch: 107
+Epoch 107 :[12672/50000], Acc: 98.92, Loss: 0.0353
+Epoch 107 :[25472/50000], Acc: 98.84, Loss: 0.0353
+Epoch 107 :[38272/50000], Acc: 98.82, Loss: 0.0366
+TEST ACCURACY Epoch 107 , TestLoss: 28.2567, TestAcc: 92.80, BEST_ACC:93.71
+
+Epoch: 108
+Epoch 108 :[12672/50000], Acc: 98.55, Loss: 0.0402
+Epoch 108 :[25472/50000], Acc: 98.73, Loss: 0.0380
+Epoch 108 :[38272/50000], Acc: 98.71, Loss: 0.0382
+TEST ACCURACY Epoch 108 , TestLoss: 26.6842, TestAcc: 93.09, BEST_ACC:93.71
+
+Epoch: 109
+Epoch 109 :[12672/50000], Acc: 98.90, Loss: 0.0323
+Epoch 109 :[25472/50000], Acc: 98.82, Loss: 0.0352
+Epoch 109 :[38272/50000], Acc: 98.76, Loss: 0.0362
+TEST ACCURACY Epoch 109 , TestLoss: 28.4085, TestAcc: 92.82, BEST_ACC:93.71
+
+Epoch: 110
+Epoch 110 :[12672/50000], Acc: 98.77, Loss: 0.0351
+Epoch 110 :[25472/50000], Acc: 98.82, Loss: 0.0362
+Epoch 110 :[38272/50000], Acc: 98.70, Loss: 0.0384
+TEST ACCURACY Epoch 110 , TestLoss: 29.8703, TestAcc: 92.33, BEST_ACC:93.71
+
+Epoch: 111
+Epoch 111 :[12672/50000], Acc: 98.71, Loss: 0.0385
+Epoch 111 :[25472/50000], Acc: 98.64, Loss: 0.0404
+Epoch 111 :[38272/50000], Acc: 98.68, Loss: 0.0396
+TEST ACCURACY Epoch 111 , TestLoss: 29.4633, TestAcc: 92.73, BEST_ACC:93.71
+
+Epoch: 112
+Epoch 112 :[12672/50000], Acc: 98.77, Loss: 0.0377
+Epoch 112 :[25472/50000], Acc: 98.64, Loss: 0.0394
+Epoch 112 :[38272/50000], Acc: 98.65, Loss: 0.0390
+TEST ACCURACY Epoch 112 , TestLoss: 29.6755, TestAcc: 92.41, BEST_ACC:93.71
+
+Epoch: 113
+Epoch 113 :[12672/50000], Acc: 98.67, Loss: 0.0384
+Epoch 113 :[25472/50000], Acc: 98.62, Loss: 0.0410
+Epoch 113 :[38272/50000], Acc: 98.66, Loss: 0.0403
+TEST ACCURACY Epoch 113 , TestLoss: 27.4588, TestAcc: 92.76, BEST_ACC:93.71
+
+Epoch: 114
+Epoch 114 :[12672/50000], Acc: 98.57, Loss: 0.0383
+Epoch 114 :[25472/50000], Acc: 98.63, Loss: 0.0383
+Epoch 114 :[38272/50000], Acc: 98.47, Loss: 0.0427
+TEST ACCURACY Epoch 114 , TestLoss: 26.1770, TestAcc: 93.05, BEST_ACC:93.71
+
+Epoch: 115
+Epoch 115 :[12672/50000], Acc: 98.49, Loss: 0.0438
+Epoch 115 :[25472/50000], Acc: 98.55, Loss: 0.0418
+Epoch 115 :[38272/50000], Acc: 98.47, Loss: 0.0439
+TEST ACCURACY Epoch 115 , TestLoss: 29.3792, TestAcc: 92.59, BEST_ACC:93.71
+
+Epoch: 116
+Epoch 116 :[12672/50000], Acc: 98.75, Loss: 0.0386
+Epoch 116 :[25472/50000], Acc: 98.78, Loss: 0.0371
+Epoch 116 :[38272/50000], Acc: 98.63, Loss: 0.0404
+TEST ACCURACY Epoch 116 , TestLoss: 26.4822, TestAcc: 92.92, BEST_ACC:93.71
+
+Epoch: 117
+Epoch 117 :[12672/50000], Acc: 98.45, Loss: 0.0435
+Epoch 117 :[25472/50000], Acc: 98.52, Loss: 0.0437
+Epoch 117 :[38272/50000], Acc: 98.51, Loss: 0.0446
+TEST ACCURACY Epoch 117 , TestLoss: 28.3748, TestAcc: 92.43, BEST_ACC:93.71
+
+Epoch: 118
+Epoch 118 :[12672/50000], Acc: 98.60, Loss: 0.0418
+Epoch 118 :[25472/50000], Acc: 98.64, Loss: 0.0417
+Epoch 118 :[38272/50000], Acc: 98.53, Loss: 0.0444
+TEST ACCURACY Epoch 118 , TestLoss: 28.5715, TestAcc: 92.39, BEST_ACC:93.71
+
+Epoch: 119
+Epoch 119 :[12672/50000], Acc: 98.59, Loss: 0.0404
+Epoch 119 :[25472/50000], Acc: 98.59, Loss: 0.0420
+Epoch 119 :[38272/50000], Acc: 98.44, Loss: 0.0460
+TEST ACCURACY Epoch 119 , TestLoss: 28.9367, TestAcc: 92.17, BEST_ACC:93.71
+
+Epoch: 120
+Epoch 120 :[12672/50000], Acc: 98.55, Loss: 0.0429
+Epoch 120 :[25472/50000], Acc: 98.62, Loss: 0.0413
+Epoch 120 :[38272/50000], Acc: 98.58, Loss: 0.0431
+TEST ACCURACY Epoch 120 , TestLoss: 30.0172, TestAcc: 92.40, BEST_ACC:93.71
+
+Epoch: 121
+Epoch 121 :[12672/50000], Acc: 98.51, Loss: 0.0420
+Epoch 121 :[25472/50000], Acc: 98.56, Loss: 0.0421
+Epoch 121 :[38272/50000], Acc: 98.55, Loss: 0.0427
+TEST ACCURACY Epoch 121 , TestLoss: 32.2081, TestAcc: 91.28, BEST_ACC:93.71
+
+Epoch: 122
+Epoch 122 :[12672/50000], Acc: 98.86, Loss: 0.0326
+Epoch 122 :[25472/50000], Acc: 99.02, Loss: 0.0293
+Epoch 122 :[38272/50000], Acc: 99.09, Loss: 0.0274
+TEST ACCURACY Epoch 122 , TestLoss: 21.9909, TestAcc: 93.90, BEST_ACC:93.90
+
+Epoch: 123
+Epoch 123 :[12672/50000], Acc: 99.52, Loss: 0.0166
+Epoch 123 :[25472/50000], Acc: 99.55, Loss: 0.0157
+Epoch 123 :[38272/50000], Acc: 99.55, Loss: 0.0157
+TEST ACCURACY Epoch 123 , TestLoss: 21.3510, TestAcc: 94.12, BEST_ACC:94.12
+
+Epoch: 124
+Epoch 124 :[12672/50000], Acc: 99.72, Loss: 0.0135
+Epoch 124 :[25472/50000], Acc: 99.65, Loss: 0.0139
+Epoch 124 :[38272/50000], Acc: 99.68, Loss: 0.0131
+TEST ACCURACY Epoch 124 , TestLoss: 21.5498, TestAcc: 94.19, BEST_ACC:94.19
+
+Epoch: 125
+Epoch 125 :[12672/50000], Acc: 99.77, Loss: 0.0102
+Epoch 125 :[25472/50000], Acc: 99.75, Loss: 0.0105
+Epoch 125 :[38272/50000], Acc: 99.75, Loss: 0.0104
+TEST ACCURACY Epoch 125 , TestLoss: 21.3479, TestAcc: 94.32, BEST_ACC:94.32
+
+Epoch: 126
+Epoch 126 :[12672/50000], Acc: 99.86, Loss: 0.0086
+Epoch 126 :[25472/50000], Acc: 99.86, Loss: 0.0084
+Epoch 126 :[38272/50000], Acc: 99.84, Loss: 0.0089
+TEST ACCURACY Epoch 126 , TestLoss: 21.0580, TestAcc: 94.31, BEST_ACC:94.32
+
+Epoch: 127
+Epoch 127 :[12672/50000], Acc: 99.77, Loss: 0.0087
+Epoch 127 :[25472/50000], Acc: 99.80, Loss: 0.0081
+Epoch 127 :[38272/50000], Acc: 99.81, Loss: 0.0079
+TEST ACCURACY Epoch 127 , TestLoss: 21.6757, TestAcc: 94.40, BEST_ACC:94.40
+
+Epoch: 128
+Epoch 128 :[12672/50000], Acc: 99.88, Loss: 0.0065
+Epoch 128 :[25472/50000], Acc: 99.85, Loss: 0.0068
+Epoch 128 :[38272/50000], Acc: 99.85, Loss: 0.0067
+TEST ACCURACY Epoch 128 , TestLoss: 21.7424, TestAcc: 94.30, BEST_ACC:94.40
+
+Epoch: 129
+Epoch 129 :[12672/50000], Acc: 99.82, Loss: 0.0082
+Epoch 129 :[25472/50000], Acc: 99.86, Loss: 0.0071
+Epoch 129 :[38272/50000], Acc: 99.86, Loss: 0.0071
+TEST ACCURACY Epoch 129 , TestLoss: 21.2823, TestAcc: 94.45, BEST_ACC:94.45
+
+Epoch: 130
+Epoch 130 :[12672/50000], Acc: 99.89, Loss: 0.0060
+Epoch 130 :[25472/50000], Acc: 99.90, Loss: 0.0058
+Epoch 130 :[38272/50000], Acc: 99.89, Loss: 0.0061
+TEST ACCURACY Epoch 130 , TestLoss: 21.6422, TestAcc: 94.28, BEST_ACC:94.45
+
+Epoch: 131
+Epoch 131 :[12672/50000], Acc: 99.92, Loss: 0.0054
+Epoch 131 :[25472/50000], Acc: 99.91, Loss: 0.0055
+Epoch 131 :[38272/50000], Acc: 99.88, Loss: 0.0059
+TEST ACCURACY Epoch 131 , TestLoss: 21.4747, TestAcc: 94.28, BEST_ACC:94.45
+
+Epoch: 132
+Epoch 132 :[12672/50000], Acc: 99.89, Loss: 0.0059
+Epoch 132 :[25472/50000], Acc: 99.89, Loss: 0.0059
+Epoch 132 :[38272/50000], Acc: 99.89, Loss: 0.0061
+TEST ACCURACY Epoch 132 , TestLoss: 21.5575, TestAcc: 94.38, BEST_ACC:94.45
+
+Epoch: 133
+Epoch 133 :[12672/50000], Acc: 99.88, Loss: 0.0066
+Epoch 133 :[25472/50000], Acc: 99.91, Loss: 0.0058
+Epoch 133 :[38272/50000], Acc: 99.91, Loss: 0.0058
+TEST ACCURACY Epoch 133 , TestLoss: 21.5721, TestAcc: 94.28, BEST_ACC:94.45
+
+Epoch: 134
+Epoch 134 :[12672/50000], Acc: 99.90, Loss: 0.0052
+Epoch 134 :[25472/50000], Acc: 99.91, Loss: 0.0051
+Epoch 134 :[38272/50000], Acc: 99.90, Loss: 0.0052
+TEST ACCURACY Epoch 134 , TestLoss: 21.8147, TestAcc: 94.32, BEST_ACC:94.45
+
+Epoch: 135
+Epoch 135 :[12672/50000], Acc: 99.95, Loss: 0.0042
+Epoch 135 :[25472/50000], Acc: 99.93, Loss: 0.0046
+Epoch 135 :[38272/50000], Acc: 99.93, Loss: 0.0047
+TEST ACCURACY Epoch 135 , TestLoss: 21.6161, TestAcc: 94.41, BEST_ACC:94.45
+
+Epoch: 136
+Epoch 136 :[12672/50000], Acc: 99.95, Loss: 0.0041
+Epoch 136 :[25472/50000], Acc: 99.94, Loss: 0.0046
+Epoch 136 :[38272/50000], Acc: 99.95, Loss: 0.0044
+TEST ACCURACY Epoch 136 , TestLoss: 21.8640, TestAcc: 94.38, BEST_ACC:94.45
+
+Epoch: 137
+Epoch 137 :[12672/50000], Acc: 99.94, Loss: 0.0042
+Epoch 137 :[25472/50000], Acc: 99.93, Loss: 0.0046
+Epoch 137 :[38272/50000], Acc: 99.92, Loss: 0.0047
+TEST ACCURACY Epoch 137 , TestLoss: 21.9323, TestAcc: 94.38, BEST_ACC:94.45
+
+Epoch: 138
+Epoch 138 :[12672/50000], Acc: 99.95, Loss: 0.0039
+Epoch 138 :[25472/50000], Acc: 99.93, Loss: 0.0043
+Epoch 138 :[38272/50000], Acc: 99.93, Loss: 0.0043
+TEST ACCURACY Epoch 138 , TestLoss: 21.9127, TestAcc: 94.36, BEST_ACC:94.45
+
+Epoch: 139
+Epoch 139 :[12672/50000], Acc: 99.95, Loss: 0.0038
+Epoch 139 :[25472/50000], Acc: 99.94, Loss: 0.0042
+Epoch 139 :[38272/50000], Acc: 99.94, Loss: 0.0042
+TEST ACCURACY Epoch 139 , TestLoss: 21.4515, TestAcc: 94.38, BEST_ACC:94.45
+
+Epoch: 140
+Epoch 140 :[12672/50000], Acc: 99.98, Loss: 0.0030
+Epoch 140 :[25472/50000], Acc: 99.96, Loss: 0.0035
+Epoch 140 :[38272/50000], Acc: 99.95, Loss: 0.0036
+TEST ACCURACY Epoch 140 , TestLoss: 22.1071, TestAcc: 94.40, BEST_ACC:94.45
+
+Epoch: 141
+Epoch 141 :[12672/50000], Acc: 99.94, Loss: 0.0038
+Epoch 141 :[25472/50000], Acc: 99.96, Loss: 0.0037
+Epoch 141 :[38272/50000], Acc: 99.95, Loss: 0.0039
+TEST ACCURACY Epoch 141 , TestLoss: 21.9064, TestAcc: 94.51, BEST_ACC:94.51
+
+Epoch: 142
+Epoch 142 :[12672/50000], Acc: 99.91, Loss: 0.0045
+Epoch 142 :[25472/50000], Acc: 99.92, Loss: 0.0042
+Epoch 142 :[38272/50000], Acc: 99.93, Loss: 0.0040
+TEST ACCURACY Epoch 142 , TestLoss: 22.0704, TestAcc: 94.43, BEST_ACC:94.51
+
+Epoch: 143
+Epoch 143 :[12672/50000], Acc: 99.94, Loss: 0.0037
+Epoch 143 :[25472/50000], Acc: 99.94, Loss: 0.0035
+Epoch 143 :[38272/50000], Acc: 99.94, Loss: 0.0035
+TEST ACCURACY Epoch 143 , TestLoss: 22.0182, TestAcc: 94.45, BEST_ACC:94.51
+
+Epoch: 144
+Epoch 144 :[12672/50000], Acc: 99.90, Loss: 0.0050
+Epoch 144 :[25472/50000], Acc: 99.91, Loss: 0.0045
+Epoch 144 :[38272/50000], Acc: 99.92, Loss: 0.0042
+TEST ACCURACY Epoch 144 , TestLoss: 22.0409, TestAcc: 94.49, BEST_ACC:94.51
+
+Epoch: 145
+Epoch 145 :[12672/50000], Acc: 99.96, Loss: 0.0034
+Epoch 145 :[25472/50000], Acc: 99.96, Loss: 0.0035
+Epoch 145 :[38272/50000], Acc: 99.96, Loss: 0.0034
+TEST ACCURACY Epoch 145 , TestLoss: 21.9364, TestAcc: 94.52, BEST_ACC:94.52
+
+Epoch: 146
+Epoch 146 :[12672/50000], Acc: 99.97, Loss: 0.0031
+Epoch 146 :[25472/50000], Acc: 99.96, Loss: 0.0033
+Epoch 146 :[38272/50000], Acc: 99.95, Loss: 0.0034
+TEST ACCURACY Epoch 146 , TestLoss: 22.2161, TestAcc: 94.48, BEST_ACC:94.52
+
+Epoch: 147
+Epoch 147 :[12672/50000], Acc: 99.93, Loss: 0.0037
+Epoch 147 :[25472/50000], Acc: 99.95, Loss: 0.0035
+Epoch 147 :[38272/50000], Acc: 99.94, Loss: 0.0035
+TEST ACCURACY Epoch 147 , TestLoss: 21.9783, TestAcc: 94.35, BEST_ACC:94.52
+
+Epoch: 148
+Epoch 148 :[12672/50000], Acc: 99.94, Loss: 0.0034
+Epoch 148 :[25472/50000], Acc: 99.95, Loss: 0.0034
+Epoch 148 :[38272/50000], Acc: 99.95, Loss: 0.0034
+TEST ACCURACY Epoch 148 , TestLoss: 21.8839, TestAcc: 94.50, BEST_ACC:94.52
+
+Epoch: 149
+Epoch 149 :[12672/50000], Acc: 99.93, Loss: 0.0038
+Epoch 149 :[25472/50000], Acc: 99.94, Loss: 0.0035
+Epoch 149 :[38272/50000], Acc: 99.93, Loss: 0.0035
+TEST ACCURACY Epoch 149 , TestLoss: 22.1018, TestAcc: 94.41, BEST_ACC:94.52
+
+Epoch: 150
+Epoch 150 :[12672/50000], Acc: 99.96, Loss: 0.0030
+Epoch 150 :[25472/50000], Acc: 99.95, Loss: 0.0035
+Epoch 150 :[38272/50000], Acc: 99.94, Loss: 0.0038
+TEST ACCURACY Epoch 150 , TestLoss: 22.1553, TestAcc: 94.40, BEST_ACC:94.52
+
+Epoch: 151
+Epoch 151 :[12672/50000], Acc: 99.96, Loss: 0.0030
+Epoch 151 :[25472/50000], Acc: 99.96, Loss: 0.0030
+Epoch 151 :[38272/50000], Acc: 99.97, Loss: 0.0031
+TEST ACCURACY Epoch 151 , TestLoss: 21.9081, TestAcc: 94.56, BEST_ACC:94.56
+
+Epoch: 152
+Epoch 152 :[12672/50000], Acc: 99.97, Loss: 0.0028
+Epoch 152 :[25472/50000], Acc: 99.96, Loss: 0.0030
+Epoch 152 :[38272/50000], Acc: 99.97, Loss: 0.0029
+TEST ACCURACY Epoch 152 , TestLoss: 21.8462, TestAcc: 94.62, BEST_ACC:94.62
+
+Epoch: 153
+Epoch 153 :[12672/50000], Acc: 99.98, Loss: 0.0029
+Epoch 153 :[25472/50000], Acc: 99.98, Loss: 0.0030
+Epoch 153 :[38272/50000], Acc: 99.98, Loss: 0.0029
+TEST ACCURACY Epoch 153 , TestLoss: 21.6871, TestAcc: 94.58, BEST_ACC:94.62
+
+Epoch: 154
+Epoch 154 :[12672/50000], Acc: 99.97, Loss: 0.0030
+Epoch 154 :[25472/50000], Acc: 99.96, Loss: 0.0031
+Epoch 154 :[38272/50000], Acc: 99.96, Loss: 0.0031
+TEST ACCURACY Epoch 154 , TestLoss: 21.8813, TestAcc: 94.58, BEST_ACC:94.62
+
+Epoch: 155
+Epoch 155 :[12672/50000], Acc: 99.97, Loss: 0.0026
+Epoch 155 :[25472/50000], Acc: 99.96, Loss: 0.0028
+Epoch 155 :[38272/50000], Acc: 99.97, Loss: 0.0029
+TEST ACCURACY Epoch 155 , TestLoss: 22.2196, TestAcc: 94.43, BEST_ACC:94.62
+
+Epoch: 156
+Epoch 156 :[12672/50000], Acc: 99.98, Loss: 0.0028
+Epoch 156 :[25472/50000], Acc: 99.98, Loss: 0.0028
+Epoch 156 :[38272/50000], Acc: 99.97, Loss: 0.0029
+TEST ACCURACY Epoch 156 , TestLoss: 22.1899, TestAcc: 94.49, BEST_ACC:94.62
+
+Epoch: 157
+Epoch 157 :[12672/50000], Acc: 99.98, Loss: 0.0026
+Epoch 157 :[25472/50000], Acc: 99.97, Loss: 0.0027
+Epoch 157 :[38272/50000], Acc: 99.97, Loss: 0.0026
+TEST ACCURACY Epoch 157 , TestLoss: 21.9273, TestAcc: 94.50, BEST_ACC:94.62
+
+Epoch: 158
+Epoch 158 :[12672/50000], Acc: 99.97, Loss: 0.0028
+Epoch 158 :[25472/50000], Acc: 99.96, Loss: 0.0028
+Epoch 158 :[38272/50000], Acc: 99.96, Loss: 0.0027
+TEST ACCURACY Epoch 158 , TestLoss: 22.0137, TestAcc: 94.57, BEST_ACC:94.62
+
+Epoch: 159
+Epoch 159 :[12672/50000], Acc: 99.96, Loss: 0.0024
+Epoch 159 :[25472/50000], Acc: 99.96, Loss: 0.0028
+Epoch 159 :[38272/50000], Acc: 99.97, Loss: 0.0027
+TEST ACCURACY Epoch 159 , TestLoss: 22.0136, TestAcc: 94.52, BEST_ACC:94.62
+
+Epoch: 160
+Epoch 160 :[12672/50000], Acc: 99.95, Loss: 0.0028
+Epoch 160 :[25472/50000], Acc: 99.97, Loss: 0.0028
+Epoch 160 :[38272/50000], Acc: 99.97, Loss: 0.0028
+TEST ACCURACY Epoch 160 , TestLoss: 22.4088, TestAcc: 94.48, BEST_ACC:94.62
+
+Epoch: 161
+Epoch 161 :[12672/50000], Acc: 99.98, Loss: 0.0027
+Epoch 161 :[25472/50000], Acc: 99.97, Loss: 0.0027
+Epoch 161 :[38272/50000], Acc: 99.98, Loss: 0.0026
+TEST ACCURACY Epoch 161 , TestLoss: 22.0604, TestAcc: 94.57, BEST_ACC:94.62
+
+Epoch: 162
+Epoch 162 :[12672/50000], Acc: 99.98, Loss: 0.0025
+Epoch 162 :[25472/50000], Acc: 99.97, Loss: 0.0025
+Epoch 162 :[38272/50000], Acc: 99.97, Loss: 0.0027
+TEST ACCURACY Epoch 162 , TestLoss: 22.2873, TestAcc: 94.47, BEST_ACC:94.62
+
+Epoch: 163
+Epoch 163 :[12672/50000], Acc: 99.98, Loss: 0.0021
+Epoch 163 :[25472/50000], Acc: 99.98, Loss: 0.0023
+Epoch 163 :[38272/50000], Acc: 99.98, Loss: 0.0023
+TEST ACCURACY Epoch 163 , TestLoss: 22.1570, TestAcc: 94.53, BEST_ACC:94.62
+
+Epoch: 164
+Epoch 164 :[12672/50000], Acc: 99.97, Loss: 0.0024
+Epoch 164 :[25472/50000], Acc: 99.98, Loss: 0.0023
+Epoch 164 :[38272/50000], Acc: 99.98, Loss: 0.0023
+TEST ACCURACY Epoch 164 , TestLoss: 22.1829, TestAcc: 94.53, BEST_ACC:94.62
+
+Epoch: 165
+Epoch 165 :[12672/50000], Acc: 99.98, Loss: 0.0022
+Epoch 165 :[25472/50000], Acc: 99.97, Loss: 0.0028
+Epoch 165 :[38272/50000], Acc: 99.97, Loss: 0.0027
+TEST ACCURACY Epoch 165 , TestLoss: 22.3067, TestAcc: 94.42, BEST_ACC:94.62
+
+Epoch: 166
+Epoch 166 :[12672/50000], Acc: 99.98, Loss: 0.0021
+Epoch 166 :[25472/50000], Acc: 99.98, Loss: 0.0022
+Epoch 166 :[38272/50000], Acc: 99.98, Loss: 0.0023
+TEST ACCURACY Epoch 166 , TestLoss: 21.9978, TestAcc: 94.62, BEST_ACC:94.62
+
+Epoch: 167
+Epoch 167 :[12672/50000], Acc: 99.98, Loss: 0.0021
+Epoch 167 :[25472/50000], Acc: 99.98, Loss: 0.0023
+Epoch 167 :[38272/50000], Acc: 99.98, Loss: 0.0022
+TEST ACCURACY Epoch 167 , TestLoss: 22.0743, TestAcc: 94.54, BEST_ACC:94.62
+
+Epoch: 168
+Epoch 168 :[12672/50000], Acc: 99.98, Loss: 0.0023
+Epoch 168 :[25472/50000], Acc: 99.98, Loss: 0.0025
+Epoch 168 :[38272/50000], Acc: 99.98, Loss: 0.0026
+TEST ACCURACY Epoch 168 , TestLoss: 22.2952, TestAcc: 94.61, BEST_ACC:94.62
+
+Epoch: 169
+Epoch 169 :[12672/50000], Acc: 99.99, Loss: 0.0021
+Epoch 169 :[25472/50000], Acc: 99.99, Loss: 0.0022
+Epoch 169 :[38272/50000], Acc: 99.99, Loss: 0.0022
+TEST ACCURACY Epoch 169 , TestLoss: 22.5366, TestAcc: 94.43, BEST_ACC:94.62
+
+Epoch: 170
+Epoch 170 :[12672/50000], Acc: 99.98, Loss: 0.0020
+Epoch 170 :[25472/50000], Acc: 99.97, Loss: 0.0023
+Epoch 170 :[38272/50000], Acc: 99.97, Loss: 0.0025
+TEST ACCURACY Epoch 170 , TestLoss: 22.1514, TestAcc: 94.60, BEST_ACC:94.62
+
+Epoch: 171
+Epoch 171 :[12672/50000], Acc: 99.96, Loss: 0.0025
+Epoch 171 :[25472/50000], Acc: 99.98, Loss: 0.0023
+Epoch 171 :[38272/50000], Acc: 99.98, Loss: 0.0025
+TEST ACCURACY Epoch 171 , TestLoss: 21.8393, TestAcc: 94.57, BEST_ACC:94.62
+
+Epoch: 172
+Epoch 172 :[12672/50000], Acc: 99.97, Loss: 0.0023
+Epoch 172 :[25472/50000], Acc: 99.98, Loss: 0.0022
+Epoch 172 :[38272/50000], Acc: 99.98, Loss: 0.0021
+TEST ACCURACY Epoch 172 , TestLoss: 22.1600, TestAcc: 94.59, BEST_ACC:94.62
+
+Epoch: 173
+Epoch 173 :[12672/50000], Acc: 100.00, Loss: 0.0020
+Epoch 173 :[25472/50000], Acc: 99.99, Loss: 0.0022
+Epoch 173 :[38272/50000], Acc: 99.98, Loss: 0.0022
+TEST ACCURACY Epoch 173 , TestLoss: 22.1649, TestAcc: 94.64, BEST_ACC:94.64
+
+Epoch: 174
+Epoch 174 :[12672/50000], Acc: 99.96, Loss: 0.0028
+Epoch 174 :[25472/50000], Acc: 99.96, Loss: 0.0026
+Epoch 174 :[38272/50000], Acc: 99.97, Loss: 0.0025
+TEST ACCURACY Epoch 174 , TestLoss: 21.9957, TestAcc: 94.63, BEST_ACC:94.64
+
+Epoch: 175
+Epoch 175 :[12672/50000], Acc: 99.98, Loss: 0.0022
+Epoch 175 :[25472/50000], Acc: 99.98, Loss: 0.0022
+Epoch 175 :[38272/50000], Acc: 99.98, Loss: 0.0022
+TEST ACCURACY Epoch 175 , TestLoss: 21.9957, TestAcc: 94.58, BEST_ACC:94.64
+
+Epoch: 176
+Epoch 176 :[12672/50000], Acc: 100.00, Loss: 0.0020
+Epoch 176 :[25472/50000], Acc: 100.00, Loss: 0.0021
+Epoch 176 :[38272/50000], Acc: 99.99, Loss: 0.0022
+TEST ACCURACY Epoch 176 , TestLoss: 22.0330, TestAcc: 94.61, BEST_ACC:94.64
+
+Epoch: 177
+Epoch 177 :[12672/50000], Acc: 99.99, Loss: 0.0022
+Epoch 177 :[25472/50000], Acc: 100.00, Loss: 0.0021
+Epoch 177 :[38272/50000], Acc: 99.99, Loss: 0.0020
+TEST ACCURACY Epoch 177 , TestLoss: 21.9971, TestAcc: 94.58, BEST_ACC:94.64
+
+Epoch: 178
+Epoch 178 :[12672/50000], Acc: 99.99, Loss: 0.0022
+Epoch 178 :[25472/50000], Acc: 99.98, Loss: 0.0023
+Epoch 178 :[38272/50000], Acc: 99.97, Loss: 0.0025
+TEST ACCURACY Epoch 178 , TestLoss: 21.9615, TestAcc: 94.53, BEST_ACC:94.64
+
+Epoch: 179
+Epoch 179 :[12672/50000], Acc: 100.00, Loss: 0.0020
+Epoch 179 :[25472/50000], Acc: 100.00, Loss: 0.0020
+Epoch 179 :[38272/50000], Acc: 99.99, Loss: 0.0019
+TEST ACCURACY Epoch 179 , TestLoss: 22.0144, TestAcc: 94.55, BEST_ACC:94.64
+
+Epoch: 180
+Epoch 180 :[12672/50000], Acc: 99.97, Loss: 0.0023
+Epoch 180 :[25472/50000], Acc: 99.98, Loss: 0.0021
+Epoch 180 :[38272/50000], Acc: 99.99, Loss: 0.0020
+TEST ACCURACY Epoch 180 , TestLoss: 21.8437, TestAcc: 94.59, BEST_ACC:94.64
+
+Epoch: 181
+Epoch 181 :[12672/50000], Acc: 99.98, Loss: 0.0021
+Epoch 181 :[25472/50000], Acc: 99.98, Loss: 0.0020
+Epoch 181 :[38272/50000], Acc: 99.98, Loss: 0.0022
+TEST ACCURACY Epoch 181 , TestLoss: 21.7864, TestAcc: 94.54, BEST_ACC:94.64
+
+Epoch: 182
+Epoch 182 :[12672/50000], Acc: 99.98, Loss: 0.0020
+Epoch 182 :[25472/50000], Acc: 99.98, Loss: 0.0020
+Epoch 182 :[38272/50000], Acc: 99.98, Loss: 0.0020
+TEST ACCURACY Epoch 182 , TestLoss: 21.9443, TestAcc: 94.63, BEST_ACC:94.64
+
+Epoch: 183
+Epoch 183 :[12672/50000], Acc: 99.95, Loss: 0.0027
+Epoch 183 :[25472/50000], Acc: 99.98, Loss: 0.0023
+Epoch 183 :[38272/50000], Acc: 99.98, Loss: 0.0021
+TEST ACCURACY Epoch 183 , TestLoss: 21.8538, TestAcc: 94.56, BEST_ACC:94.64
+
+Epoch: 184
+Epoch 184 :[12672/50000], Acc: 99.99, Loss: 0.0018
+Epoch 184 :[25472/50000], Acc: 99.99, Loss: 0.0019
+Epoch 184 :[38272/50000], Acc: 99.99, Loss: 0.0019
+TEST ACCURACY Epoch 184 , TestLoss: 21.9338, TestAcc: 94.61, BEST_ACC:94.64
+
+Epoch: 185
+Epoch 185 :[12672/50000], Acc: 99.98, Loss: 0.0018
+Epoch 185 :[25472/50000], Acc: 99.99, Loss: 0.0018
+Epoch 185 :[38272/50000], Acc: 99.99, Loss: 0.0019
+TEST ACCURACY Epoch 185 , TestLoss: 21.9630, TestAcc: 94.71, BEST_ACC:94.71
+
+Epoch: 186
+Epoch 186 :[12672/50000], Acc: 99.99, Loss: 0.0017
+Epoch 186 :[25472/50000], Acc: 100.00, Loss: 0.0016
+Epoch 186 :[38272/50000], Acc: 99.99, Loss: 0.0016
+TEST ACCURACY Epoch 186 , TestLoss: 21.8243, TestAcc: 94.67, BEST_ACC:94.71
+
+Epoch: 187
+Epoch 187 :[12672/50000], Acc: 99.99, Loss: 0.0018
+Epoch 187 :[25472/50000], Acc: 100.00, Loss: 0.0018
+Epoch 187 :[38272/50000], Acc: 100.00, Loss: 0.0018
+TEST ACCURACY Epoch 187 , TestLoss: 21.8715, TestAcc: 94.60, BEST_ACC:94.71
+
+Epoch: 188
+Epoch 188 :[12672/50000], Acc: 99.98, Loss: 0.0019
+Epoch 188 :[25472/50000], Acc: 99.98, Loss: 0.0019
+Epoch 188 :[38272/50000], Acc: 99.98, Loss: 0.0020
+TEST ACCURACY Epoch 188 , TestLoss: 21.7691, TestAcc: 94.74, BEST_ACC:94.74
+
+Epoch: 189
+Epoch 189 :[12672/50000], Acc: 99.99, Loss: 0.0015
+Epoch 189 :[25472/50000], Acc: 99.98, Loss: 0.0019
+Epoch 189 :[38272/50000], Acc: 99.98, Loss: 0.0019
+TEST ACCURACY Epoch 189 , TestLoss: 22.0539, TestAcc: 94.53, BEST_ACC:94.74
+
+Epoch: 190
+Epoch 190 :[12672/50000], Acc: 99.98, Loss: 0.0021
+Epoch 190 :[25472/50000], Acc: 99.98, Loss: 0.0020
+Epoch 190 :[38272/50000], Acc: 99.99, Loss: 0.0019
+TEST ACCURACY Epoch 190 , TestLoss: 22.2525, TestAcc: 94.58, BEST_ACC:94.74
+
+Epoch: 191
+Epoch 191 :[12672/50000], Acc: 99.99, Loss: 0.0019
+Epoch 191 :[25472/50000], Acc: 99.99, Loss: 0.0019
+Epoch 191 :[38272/50000], Acc: 99.99, Loss: 0.0019
+TEST ACCURACY Epoch 191 , TestLoss: 21.9487, TestAcc: 94.53, BEST_ACC:94.74
+
+Epoch: 192
+Epoch 192 :[12672/50000], Acc: 100.00, Loss: 0.0017
+Epoch 192 :[25472/50000], Acc: 99.99, Loss: 0.0019
+Epoch 192 :[38272/50000], Acc: 99.99, Loss: 0.0019
+TEST ACCURACY Epoch 192 , TestLoss: 21.8232, TestAcc: 94.76, BEST_ACC:94.76
+
+Epoch: 193
+Epoch 193 :[12672/50000], Acc: 100.00, Loss: 0.0015
+Epoch 193 :[25472/50000], Acc: 100.00, Loss: 0.0017
+Epoch 193 :[38272/50000], Acc: 99.99, Loss: 0.0018
+TEST ACCURACY Epoch 193 , TestLoss: 22.1171, TestAcc: 94.54, BEST_ACC:94.76
+
+Epoch: 194
+Epoch 194 :[12672/50000], Acc: 100.00, Loss: 0.0017
+Epoch 194 :[25472/50000], Acc: 99.99, Loss: 0.0020
+Epoch 194 :[38272/50000], Acc: 99.98, Loss: 0.0020
+TEST ACCURACY Epoch 194 , TestLoss: 22.2161, TestAcc: 94.61, BEST_ACC:94.76
+
+Epoch: 195
+Epoch 195 :[12672/50000], Acc: 99.98, Loss: 0.0017
+Epoch 195 :[25472/50000], Acc: 99.98, Loss: 0.0020
+Epoch 195 :[38272/50000], Acc: 99.98, Loss: 0.0019
+TEST ACCURACY Epoch 195 , TestLoss: 22.0439, TestAcc: 94.66, BEST_ACC:94.76
+
+Epoch: 196
+Epoch 196 :[12672/50000], Acc: 99.98, Loss: 0.0020
+Epoch 196 :[25472/50000], Acc: 99.98, Loss: 0.0019
+Epoch 196 :[38272/50000], Acc: 99.98, Loss: 0.0020
+TEST ACCURACY Epoch 196 , TestLoss: 21.9565, TestAcc: 94.56, BEST_ACC:94.76
+
+Epoch: 197
+Epoch 197 :[12672/50000], Acc: 100.00, Loss: 0.0017
+Epoch 197 :[25472/50000], Acc: 100.00, Loss: 0.0018
+Epoch 197 :[38272/50000], Acc: 99.99, Loss: 0.0019
+TEST ACCURACY Epoch 197 , TestLoss: 21.7570, TestAcc: 94.66, BEST_ACC:94.76
+
+Epoch: 198
+Epoch 198 :[12672/50000], Acc: 99.97, Loss: 0.0019
+Epoch 198 :[25472/50000], Acc: 99.98, Loss: 0.0018
+Epoch 198 :[38272/50000], Acc: 99.98, Loss: 0.0019
+TEST ACCURACY Epoch 198 , TestLoss: 21.8794, TestAcc: 94.51, BEST_ACC:94.76
+
+Epoch: 199
+Epoch 199 :[12672/50000], Acc: 99.98, Loss: 0.0017
+Epoch 199 :[25472/50000], Acc: 99.98, Loss: 0.0017
+Epoch 199 :[38272/50000], Acc: 99.99, Loss: 0.0018
+TEST ACCURACY Epoch 199 , TestLoss: 21.8118, TestAcc: 94.74, BEST_ACC:94.76

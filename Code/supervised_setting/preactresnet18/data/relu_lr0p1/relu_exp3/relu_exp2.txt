@@ -1,0 +1,5 @@
+Following the same schedule as hermites
+
+start with lr 0.01
+after 81 epochs and 122 epochs
+lr *= 0.1

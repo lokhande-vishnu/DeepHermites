@@ -1,0 +1,3606 @@
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+USING HERMITES !!!
+NUM of POLS =  8
+
+Epoch: 0
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 0 :[12672/50000], Acc: 17.94, Loss: 2.1709
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 0 :[25472/50000], Acc: 24.38, Loss: 2.0138
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 0 :[38272/50000], Acc: 27.48, Loss: nan
+TEST ACCURACY Epoch 0 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 1
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 1 :[12672/50000], Acc: 10.06, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 1 :[25472/50000], Acc: 10.08, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 1 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 1 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 2
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 2 :[12672/50000], Acc: 9.72, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 2 :[25472/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 2 :[38272/50000], Acc: 9.92, Loss: nan
+TEST ACCURACY Epoch 2 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 3
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 3 :[12672/50000], Acc: 10.12, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 3 :[25472/50000], Acc: 9.97, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 3 :[38272/50000], Acc: 10.05, Loss: nan
+TEST ACCURACY Epoch 3 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 4
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 4 :[12672/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 4 :[25472/50000], Acc: 10.04, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 4 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 4 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 5
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 5 :[12672/50000], Acc: 10.21, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 5 :[25472/50000], Acc: 10.12, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 5 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 5 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 6
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 6 :[12672/50000], Acc: 10.21, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 6 :[25472/50000], Acc: 10.05, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 6 :[38272/50000], Acc: 10.04, Loss: nan
+TEST ACCURACY Epoch 6 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 7
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 7 :[12672/50000], Acc: 10.25, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 7 :[25472/50000], Acc: 9.99, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 7 :[38272/50000], Acc: 10.10, Loss: nan
+TEST ACCURACY Epoch 7 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 8
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 8 :[12672/50000], Acc: 9.79, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 8 :[25472/50000], Acc: 9.97, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 8 :[38272/50000], Acc: 9.92, Loss: nan
+TEST ACCURACY Epoch 8 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 9
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 9 :[12672/50000], Acc: 9.70, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 9 :[25472/50000], Acc: 9.98, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 9 :[38272/50000], Acc: 10.04, Loss: nan
+TEST ACCURACY Epoch 9 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 10
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 10 :[12672/50000], Acc: 9.80, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 10 :[25472/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 10 :[38272/50000], Acc: 9.93, Loss: nan
+TEST ACCURACY Epoch 10 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 11
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 11 :[12672/50000], Acc: 10.21, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 11 :[25472/50000], Acc: 10.07, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 11 :[38272/50000], Acc: 9.99, Loss: nan
+TEST ACCURACY Epoch 11 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 12
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 12 :[12672/50000], Acc: 9.77, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 12 :[25472/50000], Acc: 9.97, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 12 :[38272/50000], Acc: 10.03, Loss: nan
+TEST ACCURACY Epoch 12 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 13
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 13 :[12672/50000], Acc: 10.21, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 13 :[25472/50000], Acc: 9.94, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 13 :[38272/50000], Acc: 9.96, Loss: nan
+TEST ACCURACY Epoch 13 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 14
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 14 :[12672/50000], Acc: 10.06, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 14 :[25472/50000], Acc: 10.05, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 14 :[38272/50000], Acc: 9.92, Loss: nan
+TEST ACCURACY Epoch 14 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 15
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 15 :[12672/50000], Acc: 10.09, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 15 :[25472/50000], Acc: 9.87, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 15 :[38272/50000], Acc: 9.90, Loss: nan
+TEST ACCURACY Epoch 15 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 16
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 16 :[12672/50000], Acc: 10.05, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 16 :[25472/50000], Acc: 9.84, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 16 :[38272/50000], Acc: 10.01, Loss: nan
+TEST ACCURACY Epoch 16 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 17
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 17 :[12672/50000], Acc: 9.88, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 17 :[25472/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 17 :[38272/50000], Acc: 9.94, Loss: nan
+TEST ACCURACY Epoch 17 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 18
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 18 :[12672/50000], Acc: 10.03, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 18 :[25472/50000], Acc: 10.13, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 18 :[38272/50000], Acc: 9.92, Loss: nan
+TEST ACCURACY Epoch 18 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 19
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 19 :[12672/50000], Acc: 9.77, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 19 :[25472/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 19 :[38272/50000], Acc: 10.10, Loss: nan
+TEST ACCURACY Epoch 19 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 20
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 20 :[12672/50000], Acc: 9.93, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 20 :[25472/50000], Acc: 9.80, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 20 :[38272/50000], Acc: 9.99, Loss: nan
+TEST ACCURACY Epoch 20 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 21
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 21 :[12672/50000], Acc: 9.62, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 21 :[25472/50000], Acc: 9.80, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 21 :[38272/50000], Acc: 9.90, Loss: nan
+TEST ACCURACY Epoch 21 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 22
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 22 :[12672/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 22 :[25472/50000], Acc: 10.01, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 22 :[38272/50000], Acc: 9.93, Loss: nan
+TEST ACCURACY Epoch 22 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 23
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 23 :[12672/50000], Acc: 10.14, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 23 :[25472/50000], Acc: 10.02, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 23 :[38272/50000], Acc: 10.08, Loss: nan
+TEST ACCURACY Epoch 23 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 24
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 24 :[12672/50000], Acc: 10.10, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 24 :[25472/50000], Acc: 10.13, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 24 :[38272/50000], Acc: 10.09, Loss: nan
+TEST ACCURACY Epoch 24 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 25
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 25 :[12672/50000], Acc: 9.84, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 25 :[25472/50000], Acc: 9.84, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 25 :[38272/50000], Acc: 9.96, Loss: nan
+TEST ACCURACY Epoch 25 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 26
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 26 :[12672/50000], Acc: 10.05, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 26 :[25472/50000], Acc: 10.21, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 26 :[38272/50000], Acc: 10.03, Loss: nan
+TEST ACCURACY Epoch 26 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 27
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 27 :[12672/50000], Acc: 9.84, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 27 :[25472/50000], Acc: 9.81, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 27 :[38272/50000], Acc: 9.97, Loss: nan
+TEST ACCURACY Epoch 27 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 28
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 28 :[12672/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 28 :[25472/50000], Acc: 10.00, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 28 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 28 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 29
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 29 :[12672/50000], Acc: 9.54, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 29 :[25472/50000], Acc: 9.89, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 29 :[38272/50000], Acc: 9.99, Loss: nan
+TEST ACCURACY Epoch 29 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 30
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 30 :[12672/50000], Acc: 10.34, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 30 :[25472/50000], Acc: 10.17, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 30 :[38272/50000], Acc: 10.01, Loss: nan
+TEST ACCURACY Epoch 30 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 31
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 31 :[12672/50000], Acc: 10.26, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 31 :[25472/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 31 :[38272/50000], Acc: 9.90, Loss: nan
+TEST ACCURACY Epoch 31 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 32
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 32 :[12672/50000], Acc: 9.99, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 32 :[25472/50000], Acc: 10.00, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 32 :[38272/50000], Acc: 10.05, Loss: nan
+TEST ACCURACY Epoch 32 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 33
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 33 :[12672/50000], Acc: 10.03, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 33 :[25472/50000], Acc: 10.07, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 33 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 33 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 34
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 34 :[12672/50000], Acc: 10.39, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 34 :[25472/50000], Acc: 10.09, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 34 :[38272/50000], Acc: 9.99, Loss: nan
+TEST ACCURACY Epoch 34 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 35
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 35 :[12672/50000], Acc: 10.23, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 35 :[25472/50000], Acc: 10.11, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 35 :[38272/50000], Acc: 10.08, Loss: nan
+TEST ACCURACY Epoch 35 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 36
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 36 :[12672/50000], Acc: 10.36, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 36 :[25472/50000], Acc: 10.06, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 36 :[38272/50000], Acc: 10.08, Loss: nan
+TEST ACCURACY Epoch 36 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 37
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 37 :[12672/50000], Acc: 9.82, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 37 :[25472/50000], Acc: 9.83, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 37 :[38272/50000], Acc: 10.00, Loss: nan
+TEST ACCURACY Epoch 37 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 38
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 38 :[12672/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 38 :[25472/50000], Acc: 9.72, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 38 :[38272/50000], Acc: 9.92, Loss: nan
+TEST ACCURACY Epoch 38 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 39
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 39 :[12672/50000], Acc: 10.20, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 39 :[25472/50000], Acc: 10.01, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 39 :[38272/50000], Acc: 9.99, Loss: nan
+TEST ACCURACY Epoch 39 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 40
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 40 :[12672/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 40 :[25472/50000], Acc: 9.94, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 40 :[38272/50000], Acc: 10.04, Loss: nan
+TEST ACCURACY Epoch 40 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 41
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 41 :[12672/50000], Acc: 9.79, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 41 :[25472/50000], Acc: 10.04, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 41 :[38272/50000], Acc: 10.01, Loss: nan
+TEST ACCURACY Epoch 41 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 42
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 42 :[12672/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 42 :[25472/50000], Acc: 10.09, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 42 :[38272/50000], Acc: 10.01, Loss: nan
+TEST ACCURACY Epoch 42 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 43
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 43 :[12672/50000], Acc: 9.74, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 43 :[25472/50000], Acc: 9.94, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 43 :[38272/50000], Acc: 10.10, Loss: nan
+TEST ACCURACY Epoch 43 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 44
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 44 :[12672/50000], Acc: 10.33, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 44 :[25472/50000], Acc: 10.09, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 44 :[38272/50000], Acc: 10.03, Loss: nan
+TEST ACCURACY Epoch 44 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 45
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 45 :[12672/50000], Acc: 10.08, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 45 :[25472/50000], Acc: 10.08, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 45 :[38272/50000], Acc: 10.03, Loss: nan
+TEST ACCURACY Epoch 45 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 46
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 46 :[12672/50000], Acc: 9.88, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 46 :[25472/50000], Acc: 9.97, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 46 :[38272/50000], Acc: 10.06, Loss: nan
+TEST ACCURACY Epoch 46 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 47
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 47 :[12672/50000], Acc: 10.27, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 47 :[25472/50000], Acc: 9.97, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 47 :[38272/50000], Acc: 10.00, Loss: nan
+TEST ACCURACY Epoch 47 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 48
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 48 :[12672/50000], Acc: 9.77, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 48 :[25472/50000], Acc: 9.79, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 48 :[38272/50000], Acc: 9.84, Loss: nan
+TEST ACCURACY Epoch 48 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 49
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 49 :[12672/50000], Acc: 10.34, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 49 :[25472/50000], Acc: 10.09, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 49 :[38272/50000], Acc: 10.04, Loss: nan
+TEST ACCURACY Epoch 49 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 50
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 50 :[12672/50000], Acc: 10.37, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 50 :[25472/50000], Acc: 10.24, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 50 :[38272/50000], Acc: 10.06, Loss: nan
+TEST ACCURACY Epoch 50 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 51
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 51 :[12672/50000], Acc: 9.93, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 51 :[25472/50000], Acc: 10.11, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 51 :[38272/50000], Acc: 10.00, Loss: nan
+TEST ACCURACY Epoch 51 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 52
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 52 :[12672/50000], Acc: 10.27, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 52 :[25472/50000], Acc: 10.18, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 52 :[38272/50000], Acc: 10.01, Loss: nan
+TEST ACCURACY Epoch 52 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 53
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 53 :[12672/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 53 :[25472/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 53 :[38272/50000], Acc: 9.82, Loss: nan
+TEST ACCURACY Epoch 53 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 54
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 54 :[12672/50000], Acc: 9.85, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 54 :[25472/50000], Acc: 9.90, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 54 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 54 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 55
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 55 :[12672/50000], Acc: 9.85, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 55 :[25472/50000], Acc: 10.09, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 55 :[38272/50000], Acc: 9.97, Loss: nan
+TEST ACCURACY Epoch 55 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 56
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 56 :[12672/50000], Acc: 10.41, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 56 :[25472/50000], Acc: 10.04, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 56 :[38272/50000], Acc: 9.96, Loss: nan
+TEST ACCURACY Epoch 56 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 57
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 57 :[12672/50000], Acc: 10.27, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 57 :[25472/50000], Acc: 10.24, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 57 :[38272/50000], Acc: 10.00, Loss: nan
+TEST ACCURACY Epoch 57 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 58
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 58 :[12672/50000], Acc: 9.80, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 58 :[25472/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 58 :[38272/50000], Acc: 10.09, Loss: nan
+TEST ACCURACY Epoch 58 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 59
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 59 :[12672/50000], Acc: 10.24, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 59 :[25472/50000], Acc: 9.98, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 59 :[38272/50000], Acc: 10.01, Loss: nan
+TEST ACCURACY Epoch 59 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 60
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 60 :[12672/50000], Acc: 10.20, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 60 :[25472/50000], Acc: 10.17, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 60 :[38272/50000], Acc: 10.12, Loss: nan
+TEST ACCURACY Epoch 60 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 61
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 61 :[12672/50000], Acc: 10.20, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 61 :[25472/50000], Acc: 10.28, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 61 :[38272/50000], Acc: 10.17, Loss: nan
+TEST ACCURACY Epoch 61 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 62
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 62 :[12672/50000], Acc: 10.36, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 62 :[25472/50000], Acc: 10.20, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 62 :[38272/50000], Acc: 10.06, Loss: nan
+TEST ACCURACY Epoch 62 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 63
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 63 :[12672/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 63 :[25472/50000], Acc: 9.88, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 63 :[38272/50000], Acc: 9.97, Loss: nan
+TEST ACCURACY Epoch 63 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 64
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 64 :[12672/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 64 :[25472/50000], Acc: 9.94, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 64 :[38272/50000], Acc: 10.01, Loss: nan
+TEST ACCURACY Epoch 64 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 65
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 65 :[12672/50000], Acc: 10.19, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 65 :[25472/50000], Acc: 10.15, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 65 :[38272/50000], Acc: 10.09, Loss: nan
+TEST ACCURACY Epoch 65 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 66
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 66 :[12672/50000], Acc: 10.12, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 66 :[25472/50000], Acc: 9.78, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 66 :[38272/50000], Acc: 9.92, Loss: nan
+TEST ACCURACY Epoch 66 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 67
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 67 :[12672/50000], Acc: 9.62, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 67 :[25472/50000], Acc: 9.97, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 67 :[38272/50000], Acc: 9.91, Loss: nan
+TEST ACCURACY Epoch 67 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 68
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 68 :[12672/50000], Acc: 10.12, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 68 :[25472/50000], Acc: 10.25, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 68 :[38272/50000], Acc: 10.11, Loss: nan
+TEST ACCURACY Epoch 68 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 69
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 69 :[12672/50000], Acc: 9.71, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 69 :[25472/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 69 :[38272/50000], Acc: 9.90, Loss: nan
+TEST ACCURACY Epoch 69 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 70
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 70 :[12672/50000], Acc: 9.84, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 70 :[25472/50000], Acc: 9.90, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 70 :[38272/50000], Acc: 10.07, Loss: nan
+TEST ACCURACY Epoch 70 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 71
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 71 :[12672/50000], Acc: 9.93, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 71 :[25472/50000], Acc: 10.07, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 71 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 71 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 72
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 72 :[12672/50000], Acc: 9.59, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 72 :[25472/50000], Acc: 10.06, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 72 :[38272/50000], Acc: 9.92, Loss: nan
+TEST ACCURACY Epoch 72 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 73
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 73 :[12672/50000], Acc: 10.31, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 73 :[25472/50000], Acc: 10.13, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 73 :[38272/50000], Acc: 10.10, Loss: nan
+TEST ACCURACY Epoch 73 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 74
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 74 :[12672/50000], Acc: 10.22, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 74 :[25472/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 74 :[38272/50000], Acc: 10.05, Loss: nan
+TEST ACCURACY Epoch 74 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 75
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 75 :[12672/50000], Acc: 10.14, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 75 :[25472/50000], Acc: 10.02, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 75 :[38272/50000], Acc: 10.00, Loss: nan
+TEST ACCURACY Epoch 75 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 76
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 76 :[12672/50000], Acc: 10.16, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 76 :[25472/50000], Acc: 10.05, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 76 :[38272/50000], Acc: 9.96, Loss: nan
+TEST ACCURACY Epoch 76 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 77
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 77 :[12672/50000], Acc: 9.91, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 77 :[25472/50000], Acc: 9.77, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 77 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 77 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 78
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 78 :[12672/50000], Acc: 10.37, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 78 :[25472/50000], Acc: 10.17, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 78 :[38272/50000], Acc: 10.17, Loss: nan
+TEST ACCURACY Epoch 78 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 79
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 79 :[12672/50000], Acc: 9.73, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 79 :[25472/50000], Acc: 9.77, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 79 :[38272/50000], Acc: 9.99, Loss: nan
+TEST ACCURACY Epoch 79 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 80
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 80 :[12672/50000], Acc: 10.07, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 80 :[25472/50000], Acc: 10.07, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 80 :[38272/50000], Acc: 10.07, Loss: nan
+TEST ACCURACY Epoch 80 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 81
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 81 :[12672/50000], Acc: 10.33, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 81 :[25472/50000], Acc: 9.98, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 81 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 81 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 82
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 82 :[12672/50000], Acc: 9.68, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 82 :[25472/50000], Acc: 9.79, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 82 :[38272/50000], Acc: 9.84, Loss: nan
+TEST ACCURACY Epoch 82 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 83
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 83 :[12672/50000], Acc: 10.32, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 83 :[25472/50000], Acc: 10.11, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 83 :[38272/50000], Acc: 10.04, Loss: nan
+TEST ACCURACY Epoch 83 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 84
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 84 :[12672/50000], Acc: 10.11, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 84 :[25472/50000], Acc: 10.18, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 84 :[38272/50000], Acc: 10.01, Loss: nan
+TEST ACCURACY Epoch 84 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 85
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 85 :[12672/50000], Acc: 10.28, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 85 :[25472/50000], Acc: 10.14, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 85 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 85 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 86
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 86 :[12672/50000], Acc: 10.03, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 86 :[25472/50000], Acc: 10.04, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 86 :[38272/50000], Acc: 9.96, Loss: nan
+TEST ACCURACY Epoch 86 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 87
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 87 :[12672/50000], Acc: 9.93, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 87 :[25472/50000], Acc: 9.93, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 87 :[38272/50000], Acc: 9.96, Loss: nan
+TEST ACCURACY Epoch 87 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 88
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 88 :[12672/50000], Acc: 9.84, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 88 :[25472/50000], Acc: 9.94, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 88 :[38272/50000], Acc: 10.00, Loss: nan
+TEST ACCURACY Epoch 88 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 89
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 89 :[12672/50000], Acc: 9.98, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 89 :[25472/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 89 :[38272/50000], Acc: 10.00, Loss: nan
+TEST ACCURACY Epoch 89 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 90
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 90 :[12672/50000], Acc: 9.80, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 90 :[25472/50000], Acc: 10.05, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 90 :[38272/50000], Acc: 10.01, Loss: nan
+TEST ACCURACY Epoch 90 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 91
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 91 :[12672/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 91 :[25472/50000], Acc: 10.06, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 91 :[38272/50000], Acc: 10.04, Loss: nan
+TEST ACCURACY Epoch 91 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 92
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 92 :[12672/50000], Acc: 10.27, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 92 :[25472/50000], Acc: 10.24, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 92 :[38272/50000], Acc: 10.07, Loss: nan
+TEST ACCURACY Epoch 92 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 93
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 93 :[12672/50000], Acc: 9.78, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 93 :[25472/50000], Acc: 9.93, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 93 :[38272/50000], Acc: 9.97, Loss: nan
+TEST ACCURACY Epoch 93 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 94
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 94 :[12672/50000], Acc: 10.33, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 94 :[25472/50000], Acc: 10.25, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 94 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 94 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 95
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 95 :[12672/50000], Acc: 10.02, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 95 :[25472/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 95 :[38272/50000], Acc: 9.92, Loss: nan
+TEST ACCURACY Epoch 95 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 96
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 96 :[12672/50000], Acc: 10.46, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 96 :[25472/50000], Acc: 10.18, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 96 :[38272/50000], Acc: 10.18, Loss: nan
+TEST ACCURACY Epoch 96 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 97
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 97 :[12672/50000], Acc: 10.12, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 97 :[25472/50000], Acc: 10.00, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 97 :[38272/50000], Acc: 9.95, Loss: nan
+TEST ACCURACY Epoch 97 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 98
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 98 :[12672/50000], Acc: 10.22, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 98 :[25472/50000], Acc: 9.98, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 98 :[38272/50000], Acc: 10.00, Loss: nan
+TEST ACCURACY Epoch 98 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 99
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 99 :[12672/50000], Acc: 9.88, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 99 :[25472/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 99 :[38272/50000], Acc: 9.92, Loss: nan
+TEST ACCURACY Epoch 99 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 100
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 100 :[12672/50000], Acc: 10.07, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 100 :[25472/50000], Acc: 10.05, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 100 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 100 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 101
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 101 :[12672/50000], Acc: 9.83, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 101 :[25472/50000], Acc: 9.98, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 101 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 101 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 102
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 102 :[12672/50000], Acc: 10.20, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 102 :[25472/50000], Acc: 10.09, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 102 :[38272/50000], Acc: 10.10, Loss: nan
+TEST ACCURACY Epoch 102 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 103
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 103 :[12672/50000], Acc: 9.98, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 103 :[25472/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 103 :[38272/50000], Acc: 10.03, Loss: nan
+TEST ACCURACY Epoch 103 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 104
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 104 :[12672/50000], Acc: 9.45, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 104 :[25472/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 104 :[38272/50000], Acc: 10.06, Loss: nan
+TEST ACCURACY Epoch 104 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 105
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 105 :[12672/50000], Acc: 9.93, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 105 :[25472/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 105 :[38272/50000], Acc: 10.08, Loss: nan
+TEST ACCURACY Epoch 105 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 106
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 106 :[12672/50000], Acc: 9.77, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 106 :[25472/50000], Acc: 9.89, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 106 :[38272/50000], Acc: 9.95, Loss: nan
+TEST ACCURACY Epoch 106 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 107
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 107 :[12672/50000], Acc: 9.73, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 107 :[25472/50000], Acc: 10.02, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 107 :[38272/50000], Acc: 10.09, Loss: nan
+TEST ACCURACY Epoch 107 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 108
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 108 :[12672/50000], Acc: 10.12, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 108 :[25472/50000], Acc: 10.05, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 108 :[38272/50000], Acc: 10.06, Loss: nan
+TEST ACCURACY Epoch 108 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 109
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 109 :[12672/50000], Acc: 10.11, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 109 :[25472/50000], Acc: 10.16, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 109 :[38272/50000], Acc: 10.18, Loss: nan
+TEST ACCURACY Epoch 109 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 110
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 110 :[12672/50000], Acc: 10.23, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 110 :[25472/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 110 :[38272/50000], Acc: 9.95, Loss: nan
+TEST ACCURACY Epoch 110 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 111
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 111 :[12672/50000], Acc: 10.12, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 111 :[25472/50000], Acc: 10.22, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 111 :[38272/50000], Acc: 9.99, Loss: nan
+TEST ACCURACY Epoch 111 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 112
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 112 :[12672/50000], Acc: 10.14, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 112 :[25472/50000], Acc: 10.06, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 112 :[38272/50000], Acc: 10.00, Loss: nan
+TEST ACCURACY Epoch 112 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 113
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 113 :[12672/50000], Acc: 9.45, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 113 :[25472/50000], Acc: 9.84, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 113 :[38272/50000], Acc: 9.90, Loss: nan
+TEST ACCURACY Epoch 113 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 114
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 114 :[12672/50000], Acc: 10.09, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 114 :[25472/50000], Acc: 10.04, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 114 :[38272/50000], Acc: 10.12, Loss: nan
+TEST ACCURACY Epoch 114 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 115
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 115 :[12672/50000], Acc: 10.09, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 115 :[25472/50000], Acc: 9.99, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 115 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 115 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 116
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 116 :[12672/50000], Acc: 10.15, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 116 :[25472/50000], Acc: 10.03, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 116 :[38272/50000], Acc: 9.96, Loss: nan
+TEST ACCURACY Epoch 116 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 117
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 117 :[12672/50000], Acc: 9.98, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 117 :[25472/50000], Acc: 9.94, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 117 :[38272/50000], Acc: 9.99, Loss: nan
+TEST ACCURACY Epoch 117 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 118
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 118 :[12672/50000], Acc: 9.61, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 118 :[25472/50000], Acc: 9.94, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 118 :[38272/50000], Acc: 9.96, Loss: nan
+TEST ACCURACY Epoch 118 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 119
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 119 :[12672/50000], Acc: 10.12, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 119 :[25472/50000], Acc: 9.75, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 119 :[38272/50000], Acc: 9.84, Loss: nan
+TEST ACCURACY Epoch 119 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 120
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 120 :[12672/50000], Acc: 9.84, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 120 :[25472/50000], Acc: 10.11, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 120 :[38272/50000], Acc: 10.01, Loss: nan
+TEST ACCURACY Epoch 120 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 121
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 121 :[12672/50000], Acc: 9.89, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 121 :[25472/50000], Acc: 10.06, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 121 :[38272/50000], Acc: 10.06, Loss: nan
+TEST ACCURACY Epoch 121 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 122
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 122 :[12672/50000], Acc: 9.68, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 122 :[25472/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 122 :[38272/50000], Acc: 9.95, Loss: nan
+TEST ACCURACY Epoch 122 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 123
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 123 :[12672/50000], Acc: 10.33, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 123 :[25472/50000], Acc: 9.86, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 123 :[38272/50000], Acc: 9.94, Loss: nan
+TEST ACCURACY Epoch 123 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 124
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 124 :[12672/50000], Acc: 10.02, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 124 :[25472/50000], Acc: 9.74, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 124 :[38272/50000], Acc: 9.88, Loss: nan
+TEST ACCURACY Epoch 124 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 125
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 125 :[12672/50000], Acc: 9.90, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 125 :[25472/50000], Acc: 10.08, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 125 :[38272/50000], Acc: 10.07, Loss: nan
+TEST ACCURACY Epoch 125 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 126
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 126 :[12672/50000], Acc: 10.12, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 126 :[25472/50000], Acc: 10.00, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 126 :[38272/50000], Acc: 9.97, Loss: nan
+TEST ACCURACY Epoch 126 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 127
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 127 :[12672/50000], Acc: 10.10, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 127 :[25472/50000], Acc: 9.97, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 127 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 127 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 128
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 128 :[12672/50000], Acc: 10.07, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 128 :[25472/50000], Acc: 9.82, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 128 :[38272/50000], Acc: 9.92, Loss: nan
+TEST ACCURACY Epoch 128 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 129
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 129 :[12672/50000], Acc: 9.73, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 129 :[25472/50000], Acc: 10.00, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 129 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 129 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 130
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 130 :[12672/50000], Acc: 10.12, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 130 :[25472/50000], Acc: 10.16, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 130 :[38272/50000], Acc: 10.10, Loss: nan
+TEST ACCURACY Epoch 130 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 131
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 131 :[12672/50000], Acc: 9.91, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 131 :[25472/50000], Acc: 9.79, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 131 :[38272/50000], Acc: 10.11, Loss: nan
+TEST ACCURACY Epoch 131 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 132
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 132 :[12672/50000], Acc: 9.94, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 132 :[25472/50000], Acc: 10.11, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 132 :[38272/50000], Acc: 10.08, Loss: nan
+TEST ACCURACY Epoch 132 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 133
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 133 :[12672/50000], Acc: 10.08, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 133 :[25472/50000], Acc: 10.00, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 133 :[38272/50000], Acc: 9.96, Loss: nan
+TEST ACCURACY Epoch 133 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 134
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 134 :[12672/50000], Acc: 10.00, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 134 :[25472/50000], Acc: 10.22, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 134 :[38272/50000], Acc: 10.13, Loss: nan
+TEST ACCURACY Epoch 134 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 135
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 135 :[12672/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 135 :[25472/50000], Acc: 10.10, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 135 :[38272/50000], Acc: 9.95, Loss: nan
+TEST ACCURACY Epoch 135 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 136
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 136 :[12672/50000], Acc: 10.24, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 136 :[25472/50000], Acc: 10.17, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 136 :[38272/50000], Acc: 10.14, Loss: nan
+TEST ACCURACY Epoch 136 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 137
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 137 :[12672/50000], Acc: 10.24, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 137 :[25472/50000], Acc: 10.07, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 137 :[38272/50000], Acc: 10.00, Loss: nan
+TEST ACCURACY Epoch 137 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 138
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 138 :[12672/50000], Acc: 10.26, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 138 :[25472/50000], Acc: 10.12, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 138 :[38272/50000], Acc: 10.17, Loss: nan
+TEST ACCURACY Epoch 138 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 139
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 139 :[12672/50000], Acc: 9.77, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 139 :[25472/50000], Acc: 9.98, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 139 :[38272/50000], Acc: 9.93, Loss: nan
+TEST ACCURACY Epoch 139 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 140
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 140 :[12672/50000], Acc: 9.76, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 140 :[25472/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 140 :[38272/50000], Acc: 10.07, Loss: nan
+TEST ACCURACY Epoch 140 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 141
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 141 :[12672/50000], Acc: 9.87, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 141 :[25472/50000], Acc: 9.89, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 141 :[38272/50000], Acc: 10.03, Loss: nan
+TEST ACCURACY Epoch 141 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 142
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 142 :[12672/50000], Acc: 9.91, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 142 :[25472/50000], Acc: 10.16, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 142 :[38272/50000], Acc: 9.97, Loss: nan
+TEST ACCURACY Epoch 142 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 143
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 143 :[12672/50000], Acc: 10.46, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 143 :[25472/50000], Acc: 10.07, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 143 :[38272/50000], Acc: 10.15, Loss: nan
+TEST ACCURACY Epoch 143 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 144
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 144 :[12672/50000], Acc: 10.27, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 144 :[25472/50000], Acc: 10.09, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 144 :[38272/50000], Acc: 10.08, Loss: nan
+TEST ACCURACY Epoch 144 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 145
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 145 :[12672/50000], Acc: 10.19, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 145 :[25472/50000], Acc: 10.14, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 145 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 145 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 146
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 146 :[12672/50000], Acc: 9.69, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 146 :[25472/50000], Acc: 9.91, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 146 :[38272/50000], Acc: 10.07, Loss: nan
+TEST ACCURACY Epoch 146 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 147
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 147 :[12672/50000], Acc: 9.72, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 147 :[25472/50000], Acc: 9.93, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 147 :[38272/50000], Acc: 9.96, Loss: nan
+TEST ACCURACY Epoch 147 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 148
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 148 :[12672/50000], Acc: 10.36, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 148 :[25472/50000], Acc: 10.10, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 148 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 148 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 149
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 149 :[12672/50000], Acc: 9.85, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 149 :[25472/50000], Acc: 9.86, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 149 :[38272/50000], Acc: 9.91, Loss: nan
+TEST ACCURACY Epoch 149 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 150
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 150 :[12672/50000], Acc: 9.97, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 150 :[25472/50000], Acc: 10.02, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 150 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 150 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 151
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 151 :[12672/50000], Acc: 9.52, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 151 :[25472/50000], Acc: 9.71, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 151 :[38272/50000], Acc: 9.94, Loss: nan
+TEST ACCURACY Epoch 151 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 152
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 152 :[12672/50000], Acc: 9.84, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 152 :[25472/50000], Acc: 9.91, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 152 :[38272/50000], Acc: 10.09, Loss: nan
+TEST ACCURACY Epoch 152 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 153
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 153 :[12672/50000], Acc: 10.04, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 153 :[25472/50000], Acc: 10.21, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 153 :[38272/50000], Acc: 10.10, Loss: nan
+TEST ACCURACY Epoch 153 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 154
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 154 :[12672/50000], Acc: 10.13, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 154 :[25472/50000], Acc: 10.26, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 154 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 154 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 155
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 155 :[12672/50000], Acc: 10.21, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 155 :[25472/50000], Acc: 9.98, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 155 :[38272/50000], Acc: 10.03, Loss: nan
+TEST ACCURACY Epoch 155 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 156
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 156 :[12672/50000], Acc: 10.27, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 156 :[25472/50000], Acc: 10.00, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 156 :[38272/50000], Acc: 10.03, Loss: nan
+TEST ACCURACY Epoch 156 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 157
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 157 :[12672/50000], Acc: 9.98, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 157 :[25472/50000], Acc: 9.75, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 157 :[38272/50000], Acc: 9.91, Loss: nan
+TEST ACCURACY Epoch 157 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 158
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 158 :[12672/50000], Acc: 9.97, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 158 :[25472/50000], Acc: 10.05, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 158 :[38272/50000], Acc: 10.00, Loss: nan
+TEST ACCURACY Epoch 158 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 159
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 159 :[12672/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 159 :[25472/50000], Acc: 9.85, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 159 :[38272/50000], Acc: 9.99, Loss: nan
+TEST ACCURACY Epoch 159 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 160
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 160 :[12672/50000], Acc: 10.08, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 160 :[25472/50000], Acc: 10.13, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 160 :[38272/50000], Acc: 9.94, Loss: nan
+TEST ACCURACY Epoch 160 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 161
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 161 :[12672/50000], Acc: 10.12, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 161 :[25472/50000], Acc: 9.99, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 161 :[38272/50000], Acc: 9.99, Loss: nan
+TEST ACCURACY Epoch 161 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 162
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 162 :[12672/50000], Acc: 9.97, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 162 :[25472/50000], Acc: 10.01, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 162 :[38272/50000], Acc: 10.07, Loss: nan
+TEST ACCURACY Epoch 162 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 163
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 163 :[12672/50000], Acc: 10.91, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 163 :[25472/50000], Acc: 10.48, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 163 :[38272/50000], Acc: 10.10, Loss: nan
+TEST ACCURACY Epoch 163 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 164
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 164 :[12672/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 164 :[25472/50000], Acc: 9.93, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 164 :[38272/50000], Acc: 9.97, Loss: nan
+TEST ACCURACY Epoch 164 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 165
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 165 :[12672/50000], Acc: 10.21, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 165 :[25472/50000], Acc: 9.93, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 165 :[38272/50000], Acc: 9.89, Loss: nan
+TEST ACCURACY Epoch 165 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 166
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 166 :[12672/50000], Acc: 10.10, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 166 :[25472/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 166 :[38272/50000], Acc: 10.09, Loss: nan
+TEST ACCURACY Epoch 166 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 167
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 167 :[12672/50000], Acc: 9.83, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 167 :[25472/50000], Acc: 10.04, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 167 :[38272/50000], Acc: 10.03, Loss: nan
+TEST ACCURACY Epoch 167 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 168
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 168 :[12672/50000], Acc: 10.14, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 168 :[25472/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 168 :[38272/50000], Acc: 10.03, Loss: nan
+TEST ACCURACY Epoch 168 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 169
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 169 :[12672/50000], Acc: 10.20, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 169 :[25472/50000], Acc: 9.88, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 169 :[38272/50000], Acc: 9.91, Loss: nan
+TEST ACCURACY Epoch 169 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 170
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 170 :[12672/50000], Acc: 10.11, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 170 :[25472/50000], Acc: 10.00, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 170 :[38272/50000], Acc: 9.95, Loss: nan
+TEST ACCURACY Epoch 170 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 171
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 171 :[12672/50000], Acc: 10.21, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 171 :[25472/50000], Acc: 10.10, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 171 :[38272/50000], Acc: 9.99, Loss: nan
+TEST ACCURACY Epoch 171 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 172
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 172 :[12672/50000], Acc: 9.66, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 172 :[25472/50000], Acc: 9.77, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 172 :[38272/50000], Acc: 9.80, Loss: nan
+TEST ACCURACY Epoch 172 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 173
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 173 :[12672/50000], Acc: 9.43, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 173 :[25472/50000], Acc: 9.88, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 173 :[38272/50000], Acc: 9.95, Loss: nan
+TEST ACCURACY Epoch 173 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 174
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 174 :[12672/50000], Acc: 10.16, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 174 :[25472/50000], Acc: 10.05, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 174 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 174 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 175
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 175 :[12672/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 175 :[25472/50000], Acc: 9.93, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 175 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 175 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 176
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 176 :[12672/50000], Acc: 10.32, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 176 :[25472/50000], Acc: 10.27, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 176 :[38272/50000], Acc: 10.01, Loss: nan
+TEST ACCURACY Epoch 176 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 177
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 177 :[12672/50000], Acc: 9.80, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 177 :[25472/50000], Acc: 9.71, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 177 :[38272/50000], Acc: 9.87, Loss: nan
+TEST ACCURACY Epoch 177 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 178
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 178 :[12672/50000], Acc: 9.68, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 178 :[25472/50000], Acc: 9.96, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 178 :[38272/50000], Acc: 9.93, Loss: nan
+TEST ACCURACY Epoch 178 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 179
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 179 :[12672/50000], Acc: 10.34, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 179 :[25472/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 179 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 179 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 180
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 180 :[12672/50000], Acc: 10.11, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 180 :[25472/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 180 :[38272/50000], Acc: 10.05, Loss: nan
+TEST ACCURACY Epoch 180 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 181
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 181 :[12672/50000], Acc: 10.19, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 181 :[25472/50000], Acc: 10.05, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 181 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 181 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 182
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 182 :[12672/50000], Acc: 10.19, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 182 :[25472/50000], Acc: 10.13, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 182 :[38272/50000], Acc: 10.05, Loss: nan
+TEST ACCURACY Epoch 182 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 183
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 183 :[12672/50000], Acc: 9.95, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 183 :[25472/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 183 :[38272/50000], Acc: 9.96, Loss: nan
+TEST ACCURACY Epoch 183 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 184
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 184 :[12672/50000], Acc: 10.32, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 184 :[25472/50000], Acc: 10.00, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 184 :[38272/50000], Acc: 10.06, Loss: nan
+TEST ACCURACY Epoch 184 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 185
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 185 :[12672/50000], Acc: 10.49, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 185 :[25472/50000], Acc: 10.20, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 185 :[38272/50000], Acc: 10.07, Loss: nan
+TEST ACCURACY Epoch 185 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 186
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 186 :[12672/50000], Acc: 9.89, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 186 :[25472/50000], Acc: 10.03, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 186 :[38272/50000], Acc: 9.98, Loss: nan
+TEST ACCURACY Epoch 186 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 187
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 187 :[12672/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 187 :[25472/50000], Acc: 9.92, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 187 :[38272/50000], Acc: 9.95, Loss: nan
+TEST ACCURACY Epoch 187 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 188
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 188 :[12672/50000], Acc: 10.06, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 188 :[25472/50000], Acc: 9.91, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 188 :[38272/50000], Acc: 10.07, Loss: nan
+TEST ACCURACY Epoch 188 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 189
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 189 :[12672/50000], Acc: 9.88, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 189 :[25472/50000], Acc: 10.08, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 189 :[38272/50000], Acc: 10.10, Loss: nan
+TEST ACCURACY Epoch 189 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 190
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 190 :[12672/50000], Acc: 9.88, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 190 :[25472/50000], Acc: 10.00, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 190 :[38272/50000], Acc: 10.05, Loss: nan
+TEST ACCURACY Epoch 190 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 191
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 191 :[12672/50000], Acc: 10.05, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 191 :[25472/50000], Acc: 10.04, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 191 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 191 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 192
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 192 :[12672/50000], Acc: 10.29, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 192 :[25472/50000], Acc: 10.02, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 192 :[38272/50000], Acc: 10.01, Loss: nan
+TEST ACCURACY Epoch 192 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 193
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 193 :[12672/50000], Acc: 9.84, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 193 :[25472/50000], Acc: 9.89, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 193 :[38272/50000], Acc: 9.95, Loss: nan
+TEST ACCURACY Epoch 193 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 194
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 194 :[12672/50000], Acc: 10.15, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 194 :[25472/50000], Acc: 10.07, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 194 :[38272/50000], Acc: 10.10, Loss: nan
+TEST ACCURACY Epoch 194 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 195
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 195 :[12672/50000], Acc: 10.23, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 195 :[25472/50000], Acc: 10.01, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 195 :[38272/50000], Acc: 9.97, Loss: nan
+TEST ACCURACY Epoch 195 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 196
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 196 :[12672/50000], Acc: 10.03, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 196 :[25472/50000], Acc: 10.01, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 196 :[38272/50000], Acc: 10.02, Loss: nan
+TEST ACCURACY Epoch 196 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 197
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 197 :[12672/50000], Acc: 9.98, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 197 :[25472/50000], Acc: 9.78, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 197 :[38272/50000], Acc: 9.96, Loss: nan
+TEST ACCURACY Epoch 197 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 198
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 198 :[12672/50000], Acc: 10.42, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 198 :[25472/50000], Acc: 10.17, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 198 :[38272/50000], Acc: 10.11, Loss: nan
+TEST ACCURACY Epoch 198 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00
+
+Epoch: 199
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 199 :[12672/50000], Acc: 9.90, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 199 :[25472/50000], Acc: 10.07, Loss: nan
+parameter update
+Parameter containing:
+tensor([ 3.9895e-01,  5.0000e-01,  2.8210e-01,  6.2132e-06,  8.1429e-02,
+        -1.6613e-06,  1.3379e-01,  3.8168e-06], device='cuda:0')
+Epoch 199 :[38272/50000], Acc: 10.10, Loss: nan
+TEST ACCURACY Epoch 199 , TestLoss: nan, TestAcc: 10.00, BEST_ACC:10.00

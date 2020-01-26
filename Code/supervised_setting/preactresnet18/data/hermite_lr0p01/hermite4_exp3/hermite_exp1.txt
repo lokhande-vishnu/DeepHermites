@@ -1,0 +1,5 @@
+'normal case'
+
+Start with lr = 0.01
+lr *= 0.1 after 81 epochs
+lr *= 0.1 after 122 epochs
