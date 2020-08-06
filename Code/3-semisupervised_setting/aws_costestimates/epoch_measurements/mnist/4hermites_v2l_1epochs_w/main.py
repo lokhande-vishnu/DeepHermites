@@ -14,7 +14,7 @@ import torch.nn as nn
 import torch.optim as optim
 
 cudnn.benchmark = True  # will turn on the cudnn autotuner that selects efficient algorithms.
-nll_loss = nn.NLLLoss(reduction='mean')
+nll_loss = nn.NLLLoss(size_average=True)
 logsoft = nn.LogSoftmax()
 if torch.__version__[2] != "1":
     logsoft = nn.LogSoftmax(dim=1)
@@ -168,6 +168,8 @@ for epoch in range(nb_outer_start, NB_OUTER_ITER):
             net_w.zero_grad()
             timeset.append(time.time() - start)
             start = time.time()
+
+        # Comment the next two line to train for all the epochs
         print(np.mean(timeset))
         raise RuntimeError
 

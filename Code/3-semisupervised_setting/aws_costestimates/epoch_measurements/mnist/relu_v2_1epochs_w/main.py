@@ -168,6 +168,8 @@ for epoch in range(nb_outer_start, NB_OUTER_ITER):
             net_w.zero_grad()
             timeset.append(time.time() - start)
             start = time.time()
+
+        # Comment the next two lines to train for all the epochs
         print(np.mean(timeset))
         raise RuntimeError
 
